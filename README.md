@@ -1,4 +1,4 @@
-# pdfReader
+# pdfParser
 leitor de pdf usando o pdfReader
 
 npm install pdfreader 
