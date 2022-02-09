@@ -1,0 +1,32 @@
+{
+  "name": "pdfparser",
+  "version": "1.0.0",
+  "description": "leitor de pdf usando o PdfReader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emarques-ghub/pdfParser.git"
+  },
+  "keywords": [
+    "pdf",
+    "node"
+  ],
+  "author": "Eduardo Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emarques-ghub/pdfParser/issues"
+  },
+  "homepage": "https://github.com/emarques-ghub/pdfParser#readme",
+  "dependencies": {
+    "node": "^16.10.0",
+    "pdf-parse": "^1.1.1",
+    "pdf-text": "^0.4.0",
+    "pdf.js-extract": "^0.1.5",
+    "pdf2html": "^2.5.2",
+    "pdf2json": "^1.2.5",
+    "pdfreader": "^1.2.12"
+  }
+}
