@@ -102,19 +102,4 @@ dist
 
 # TernJS port file
 .tern-port
-ext/BL_21_07.pdf
-ext/BL_21_08.pdf
-ext/BL_21_09.pdf
-ext/BL_21_10.pdf
-ext/BL_21_11.pdf
-ext/BL_21_12.pdf
-ext/BL_22_01.pdf
-ext/BL_22_02.pdf
-ext/BL_22_03.pdf
-ext/MC_21_08.pdf
-ext/MC_21_10.pdf
-ext/MC_21_11.pdf
-ext/MC_21_12.pdf
-ext/MC_22_01.pdf
-ext/MC_22_02.pdf
-ext/MC_22_03.pdf
+ext/
