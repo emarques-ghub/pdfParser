@@ -33,7 +33,7 @@ pdfText(filename, function(err, chunks) {
     //print Extrato & Sum
     let soma = 0;
     for (let index = 0; index < Extrato.length; index++) {
-        console.log(index + " " + Extrato[index].data + " " + Extrato[index].memo + " " + Extrato[index].parcela + " " + Extrato[index].valor);
+        console.log(index + " | " + Extrato[index].data + " | " + Extrato[index].memo + " | " + Extrato[index].parcela + " | " + Extrato[index].valor);
         soma = soma + Extrato[index].valor;
     }        
     console.log(soma.toFixed(2));
