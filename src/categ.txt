@@ -1,0 +1,620 @@
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|JJ SP SHOP
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|FC ESTETICA EIRELI
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|AlessandroOli
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|FcEsteticaLt
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|A P DUQUE
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|A P PQ VILLA LOBOS
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|A P ROCAS
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|A POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|A. P. HUNGRIA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|ASTURIAS AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|C S VENEZA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|CENTRO COM SER VENEZ
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|CENTRO DE COMB VENEZA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|EXTRA POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|IVANA GARDEN
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|JOCKEY CAR POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|LAVA RAPIDO
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|MEGADELTA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|POLITECNICA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|POSTO IPIRANGA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|POSTO PANAMBY
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|POSTO SHELL
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|POSTO VENEZA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|REDE FLEX
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|REDE PAPA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|REI DO OLEO 
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|SERVICOS VENEZA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|TASCA MARTE
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|ESPANHA SRV AUTOM
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|PANAMERICANA
+F. Automoveis:Combustivel-Lavagem-Oleo|Combustivel|ARGETAX GTAX COLISEU
+F. Automoveis:Manutencao-Revisao Auto|Mecanica|MITNORTH          
+F. Automoveis:Manutencao-Revisao Auto|Mecanica|PRO AUTO
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|4BIO MEDICAMENTOS 
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|AIR FARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|BIFARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|BRASIL FARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROG EXTRA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROG GLOBO
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROG PERF JOAO MOURA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROG SAO PAULO
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROGA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROGA JOVEM
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROGA RAIA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROGALMEI
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROGAO
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROGARIA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DROGASIL
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|DSP
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|EFARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|FARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|FARMACIA 
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|FARMALEMOS
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|FCIA PAGUE MENOS
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|INNOVA PHARMA 
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|MERCEARIA DA SAUDE
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|MULTIDROGAS
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|PANVEL FARMACIAS
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|PROMED
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|RAIA 
+B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|2196 JARDIM ADAL 
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Açougue|ACOUGUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Açougue|PATA NEGRA 
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Frutaria Colinas|AIRTON VENTU
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Frutaria Colinas|FRUTARIA COLLINAS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Frutaria Colinas|HORTIFRUTI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CARVOARIA MARTINS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|DISTRIBUIDORA DE HORTI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|FRUTAS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|HORT CENTER
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|MERCEARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|WINERY
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|CASA  P  D  FILO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|PADARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|PANIFICAD
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|PAO DO PARQUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAO DE ACUCA 
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|FABIO MORAN
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|ARMAZEM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|ASSAI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|BEEF SMART
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|BEEF BOUTIQUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|BIG
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|BOLOS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|BRF S.A.
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|Cacau Show
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CANASTRA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CARNES
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CARREFOUR
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CARVOARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CHIAPPETTA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CHOCOLATES
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|COMPREBEM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CONDESSA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|DAISO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|DONA DEOLA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|EMPORIO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|EXTRA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|FRUTARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|HIPER
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|HORTI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|JBS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|KAITEM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|KING BREAD
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|KIT KAT
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|LE PETIT MARCHE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|LOJINHA PERDIGAO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|MAMBO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|MASSA RICCI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|MASSAS RICCI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|MERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|MERCEARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|MINIMERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|NATURAL DA TERRA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|NATURALLE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|NATUSVERDE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|NESPRESSO ELDORADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|O ACOUGUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|OBA HORTIFRUT
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|P A DELIVERY
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAES DOCES COMENDADOR
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAG*BancaMarioFrutas
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAG*feirapremium
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAG*Jaguare
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAG*Peixariagourmet
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAG*Queijos
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAG*Spani
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAO DE ACUCAR
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PATA NEGRA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PEG PESE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PEG PESE SUPERMERCADO5
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PEIXARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PESCADOS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|RAINHA DO MERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|RED SUPERM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|REDE OBA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SACOLAO BUTANTA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SAGRADO BOULANGERIE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SAM S
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SAMS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SAM S CLUB
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SEFCAL FABRICACAO E CO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SENDAS DISTR
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SONDA SUPER
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|ST ETIENN
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|ST MARCHE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|STL DISTRIB
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|STL LIMPEZA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SUPERMERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|SWIFT
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|TAPIOCA DO JU
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|VILA MERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|WAL MART
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|WMB SUPERM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|WORLD WINE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|ZAFFARI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAG*ComercialDe
+B1. Alimentacao-Drogaria-Vet:Pet Center|Pet Center|COBASI
+B1. Alimentacao-Drogaria-Vet:Pet Center|Pet Center|DOG S DAY 
+B1. Alimentacao-Drogaria-Vet:Pet Center|Pet Center|FINPET
+B1. Alimentacao-Drogaria-Vet:Pet Center|Pet Center|LAB VET
+B1. Alimentacao-Drogaria-Vet:Pet Center|Pet Center|PAG*PetCenterComercio
+B1. Alimentacao-Drogaria-Vet:Pet Center|Pet Center|PET CENTER
+B1. Alimentacao-Drogaria-Vet:Pet Center|Pet Center|PET SHOP
+B1. Alimentacao-Drogaria-Vet:Pet Center|Pet Center|PETS E LIFE
+B1. Alimentacao-Drogaria-Vet:Pet Center|Pet Center|PETZ
+B1. Alimentacao-Drogaria-Vet:Pet Center|Veterinária Jaguare|VETERINARIA JAGUARE
+B2. Educacao (Mensal):Livros-Material Escolar|Kalunga|KALUNGA
+B2. Educacao (Mensal):Livros-Material Escolar|Livro Facil|LIVRO FACIL 
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|EDITORA ATICA LTDA
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|EDITORA MODERNA 
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|E-SAS
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|MISASPEL  - LIVROS
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|MULTI CENTER
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|MULTICOISAS
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|PAMARIS
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|PAPEL MAGIA
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|SARAIVA
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|SERASA            
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|SPR COM
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|SPR PAPEL
+B2. Educacao (Mensal):Livros-Material Escolar|Livraria-Papelaria|WORKBOOK
+B2. Educacao (Mensal):Merenda|Quitanda|FLV 7
+C1. Lazer-Estetica-Vestuario-Celular:Celular|Claro Celular|CLARO LJ
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|CINEARTE POMPEIA
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|CINEMA
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|CINEMARK
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|EVENTIMBRA
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|INGRESSO
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|KINOPLEX
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|MEGABILHETERI
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|UCI CINEMAS
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|TKTS FOR FUN
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|UCI BRASIL
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|UCI CINEMAS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|BARBERSHOP
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|BEAUTY BEAUTY
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|BEAUTY HAIR
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|BODY E BEAUTY
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|CABELEIR
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|CABELEIREIROS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|CICERO CARDOSO RAMOS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|CLUBE DAS UNHAS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|COSMETICOS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|DERMA SKIN 
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|ESMALTERIA
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|ESTETICA
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|HANDS CARE
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|HOMA
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|JACQUES JANINE
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|JJ SP SHOP VILLA L
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|JTSTETIC 
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|NAO MAIS PELO
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|NAO MAIS PELO 
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|PRO BEAUTY
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|RITZ CABELEIREIROS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|SAUDE E BELEZA 
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|SOMBRANCELHAS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|STUDIO DE BELEZA
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|THELMA & LOUIZE
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|VITA CORPUS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SAGRADA BOUL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PECORINO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PATY ALBUQ
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|KEBAB DO GRE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ABBRACCIO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ADEGA SANTIAGO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ALMANARA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|AMERICA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|AMOR AOS PEDACOS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ANDIAMO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|APPLEBEE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ASTOR
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BABBO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BACCIO DI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BACIO DI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BAKED POTATO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BELLA PAULISTA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BOTECO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BOULANGERIE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BOVINU
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BRASCATTA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Brascatt
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BRASSERIE LE JAZZ
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BRUTTUS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CJTJ DELIVERY
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BURDOG
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BURGER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BURGUER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|C C RAMOS CALDO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CABANA SHOPP
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CACAU SHOW
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CALDO DE CANA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CANTINA DO PIERO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CANTINA MONTECHIARO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CANTINA SPERANZA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CANTO DA MATA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CASA DE ESFIHA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CASA DO PAO DE QUEIJO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CERVEJARIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CHEF BENON
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CHINA IN BOX
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CHINA LAKE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|COCO BAMBU
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CRYSTAL PIZZA BAR
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|DENGO CHOCOLATES SA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|DIVINO FOGAO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|DO PIERO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|DOCEIRA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|DON PEPE DI NAPOLI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|DONA DEOLA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|DRL PAES E DOCES LTDA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|EL CAMINO FOODS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ENTRECOTE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ESFIHAS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ETIENNE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|FEIRA DO CONDOMINIO OS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|FRANGO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|FUJIYAMA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GAIA GRILL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GAIA NATURAL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GALERIA DOS PAES
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GALETO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GENDAI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GENERAL PRIME BURGER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GOURMET
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GRAAL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GRAO EXPRESSO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|HABIBS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|HAMBU
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|HAVANA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|HAVANNA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|IA POKE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ICI BRASSERIE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ICI MARKET PLACE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|IciVilla
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|IFD*
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ifood
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|JARDIM DE NAPOLI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|JIN JIN SUSHI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|JUCALEMAO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|K F C
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|KEBAB DO GREGO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|KFC
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|KFC SH. VILA OLIMPIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|KOPENHAGEN
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|LA GUAPA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|LANCHES
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|LANCHONETE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|MADEIRO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|MADERO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|MAGNOLIA CAFE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|MANGIARE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|MANGO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|MANIA DE CHURRASCO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|MC DONALD
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|MONTANA GRILL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|MR CHENEY
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|OAKBERRY
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|OFNER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|OUTBACK
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*AnaPaulaPinho
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Applebees
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*AstorVilaMadalena
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*BarLeo
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*BrascanSthRP
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Brascatta
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*BrauPaulista
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*BrazPinheiros
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*ChoppTimeChoperia
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*ClaudioLuizPereir
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Colmeia
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Congonhas
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*CookieDaNoiva
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Diniz
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*DuJourChocolate
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*ElianeOliveira
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*ErikDaSilva
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*feirapremium
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Fujiyama
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*GhFernandesComerc
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*GiroPizzaTruck
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*GpSaoPaulo
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*IciVillaLobos
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Jigsbrau
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*JmlpRestauranteEP
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*LaCrapulla
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*LaFavoritaFood
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*LanchoneteDaCidad
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*LedaMariaRochaDa
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Lejazz
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*LeJazzBarE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*MarceloAlexandre
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*MariaLuciaTadeuM
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*MariaLuciaTadeuMo
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*MisterPlus
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*MygatiSushi
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*NaellyDeAndrade
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*NovaVila
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Original
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*PecorinoBarE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Pecorino
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|W. M. PONTES
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*PirajaEldorado
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*PlanetaAcai
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*PortalDoRioPequen
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*PortorosePizzaria
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Rascal
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*RESTAURANTECAICAR
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*TemakeriaECia
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*UniaoOsascoSthShP
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*yakilorian
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*ZmMexicanFood
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAGOS TANINO W.BAR Y S
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PALETERIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PARIS 6
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PARRILA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PATI PIVA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PATI BRIG
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PATRONI PIZZA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PECORINO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PIRAJA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PIZZA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PIZZARIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|POBRE JUAN
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|POKE POKE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|RASCAL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|REI DA PAMONHA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|REI DO MATE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|RESTAURANTE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|RICONCITO PERUANO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ROCHINHA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|RODOSERV
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|RODOSNACK
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SALLVATTORE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SAPORE SA CAMPINAS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SI SENOR
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SODIE DOCES
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SORVETERIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SPOLETO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ST ETIENN
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|STARBUCKS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SUBWAY
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SUCO BAGACO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SUSHI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|TABERNA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|TEMAK
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|THE BARLEY HOUSE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|THE FIFTIES
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|TOMANIK PIZZA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|UBER * EATS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|VIENA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|VILA GOURMET
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|VINHERIA PERCUSSI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|WITCH BEER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|YOGOBERRY
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|Z DELI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|RAPPI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SAPORE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Tuhu|TUHU
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Tuhu|TUHU RESTAURANTE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Arezzo|AREZZO 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Calzedonia|ALNITAK 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Calzedonia|CALZEDONIA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Corello|CORELLO
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Decathlon|DECATHLON
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Intimissimi|ALNILAM
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Intimissimi|INTIMISS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|PAG*JONINACOMERCIO
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|ADIDAS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|ALO BEBE 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|ANY ANY 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|AUTHENTIC FEET
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|BOUTIQUE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|C & A
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|C E A
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|C&A
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|CALCADOS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|CASA DAS CUECAS 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|CENTAURO
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|CIA MARITIMA 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|CNS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|CONFECCOES
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|CRAWFORD
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|CROCS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|DAFITI
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|DECO SKIN
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|DRESS CODE 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|EMPORIONAKA 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|FARM VILL
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|FASCAR
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|FASHION
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|FOREVER21
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|GMS MODAS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|GREGORY
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|HAVAIANA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|HERING 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|HOPE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|JOGE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|LADO BASIC
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|LE LIS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|LEVI S
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|LINGERIE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|LUPO
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|M OFFICER
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|MEIAO MEIAS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|MOB       
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|PAG*Mob  
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|NETSHOES
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|NIKE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|PUKET
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|RENNER
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|RESTOQUE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|RICHARDS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|ROUPARIA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|ROYAL BRANDS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|SCALA 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|SEDUTI
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|SESTINI 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|SHOESTOCK 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|SIDE WALK 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|SO MEIAS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|SPEEDO 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|Superga
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|TIMBERLAND
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|TRACK FIELD
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|VILA ROMANA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|YACHTSMAN 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|YMAN MORUMBI
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|ZELO 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loungerie|LOUNGERIE         
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|MOB|MOB
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Vila Romana|VilaRomana 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Zara|ZARA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|AHOLIC
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|BAYARD 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|BLUE BEACH
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|FOREVER
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|FOTOPTICA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|INBRANDS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|MAGIC FEET
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|SHEIN
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|SHOULDER
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|SalinasVilla
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|Loja Roupas|BROOKSFIELD
+D. Viagens:Seguro|Outros|ASSIST CARD       
+D. Viagens:Tkt-Hotel-Auto|Gol Linhas Aereas|GOL LINHA
+D. Viagens:Tkt-Hotel-Auto|Gol Linhas Aereas|GOL TRAN
+D. Viagens:Tkt-Hotel-Auto|Hotel|CLUB MED 
+D. Viagens:Tkt-Hotel-Auto|Hotel|HOTEL
+D. Viagens:Tkt-Hotel-Auto|Hotel|POUSADA
+D. Viagens:Tkt-Hotel-Auto|Hotel|Vrbo
+D. Viagens:Tkt-Hotel-Auto|Agencia|CVC
+D. Viagens:Tkt-Hotel-Auto|Agencia|HERTZ
+D. Viagens:Tkt-Hotel-Auto|Agencia|LOCALIZA
+D. Viagens:Tkt-Hotel-Auto|TAM Linhas Aereas|LATAM AIRLINES
+D. Viagens:Tkt-Hotel-Auto|TAM Linhas Aereas|LATAM SITE        
+D. Viagens:Tkt-Hotel-Auto|TAM Linhas Aereas|TAM AGEN
+D. Viagens:Tkt-Hotel-Auto|TAM Linhas Aereas|TAM CALLC
+D. Viagens:Tkt-Hotel-Auto|TAM Linhas Aereas|TAM LINHAS
+D. Viagens:Tkt-Hotel-Auto|TAM Linhas Aereas|TAM MULTIPLUS
+D. Viagens:Tkt-Hotel-Auto|TAM Linhas Aereas|TAM SITE 
+D. Viagens:Tkt-Hotel-Auto|TAM Linhas Aereas|TAM VIAG
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Microsoft|MICROSOFT
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Microsoft|MSFT *
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Netflix|NETFLIX
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|CERTISI
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|GODADDY
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|GOOGLE PLAY
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|Kaspersky
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|NAVIGRAPH
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|SERASA
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Amazon Prime|AmazonPrimeBR
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Amazon Prime|Amazon.com.br Digital
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|PG *RQX (CORPO
+E1. Extraordinarias (Ongoing):Presentes|Arezzo|AREZZO
+E1. Extraordinarias (Ongoing):Presentes|Fast Shop|FAST SHOP
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|ALO BEBE 
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|BMART
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|BODY SHO
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|BOTICARIO
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|BRINQUEDOS
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|FLORES ON LINE
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|GIULIANA FLORES 
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|GRANADO
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|IMAGINARIUM
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|JK JOIAS 
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|JOKER SOCKS 
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|LOCCITANE
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|PB KIDS
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|SPICY
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|SWAROVSKI
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|ZAPALLA           
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|SEPHORA
+E1. Extraordinarias (Ongoing):Presentes|Ri Happy|HI HAPPY
+E1. Extraordinarias (Ongoing):Presentes|Vivara|VIVARA
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|C&C|C C - OSASCO
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|C&C|C C MORUM
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|C&C|C&C
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Copeli Matl Eletrico|COPELI
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|IG Lavanderia|5 A SEC
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|IG Lavanderia|5ASEC
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|IG Lavanderia|DRY CLEAN
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|IG Lavanderia|IG LAVANDERIAS
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|IG Lavanderia|LAVANDERIA
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Leroy Merlin|LEROY
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|CAMICADO          
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|CASA ALMEIDA 
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|MULTICOMERCIAL
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|MWA FESTAS
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|TOK&STOK          
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|CASA AGRICOLA 
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|CONIBASE
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|CONSTRUCEL
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|DEPOSITO CONTINENTAL
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|MULTICOISAS
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|PISCINA
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|PRECOLANDIA 
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Lojas Construcao-Eletro|VIA VAREJO 
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|Telhanorte|TELHA NORTE
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|AUTO VAGAS
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|CONECTCAR
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|ESTAC SHOP ELDORADO
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|ESTACION
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|ESTAPAR
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|PARK
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|SAO PAULO AIRPORT
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|SHOPPING UNIAO
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|SHOPPING VILLA LOBOS
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|SPBGRU
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Taxi|COOPSETA
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Taxi|GUARUCOOP
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Taxi|TAXI
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Uber|UBER
+E2. Extraordinarias (One Time):Manutencao Residencia|Lojas Construcao-Eletro|SANTIL
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames|4BIO|4BIO
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames|Fleury|FLEURY 
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames|Hospital Albert Einstein|EINSTEIN
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia|Pet Center|PETZ
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia|Pet Center|PETS
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia|Veterinaria Jaguare|VETERINARI
+G. Reembolsaveis:Medicos-Clinicas-Exames|Adriana Vilarinho|CLINICA ADRIANA VILARI
+G. Reembolsaveis:Medicos-Clinicas-Exames|Alexandre Kaupp|A O KAUP NEUROLOGIA
+G. Reembolsaveis:Medicos-Clinicas-Exames|Centro Médico Viver Melhor|C MEDICO VIVER MELHOR
+G. Reembolsaveis:Medicos-Clinicas-Exames|Centro Médico Viver Melhor|CENTRO MEDICO V MELHOR
+G. Reembolsaveis:Medicos-Clinicas-Exames|Centro Médico Viver Melhor|CENTRO MEDICO VIVER ME
+G. Reembolsaveis:Medicos-Clinicas-Exames|Centro Médico Viver Melhor|CENTRO MEDIC-CT VER ME
+G. Reembolsaveis:Medicos-Clinicas-Exames|Centro Médico Viver Melhor|GEA SERVICOS MEDICOS
+G. Reembolsaveis:Medicos-Clinicas-Exames|Elaine Dias|ELAINE DIAS
+G. Reembolsaveis:Medicos-Clinicas-Exames|Hospital Albert Einstein|HOSP ALBERT EINST 
+G. Reembolsaveis:Medicos-Clinicas-Exames|Marcelo Silber|CICLO DE VIDA
+G. Reembolsaveis:Medicos-Clinicas-Exames|Laboratorio|DELBONI
+G. Reembolsaveis:Medicos-Clinicas-Exames|Laboratorio|FLEURY 
+G. Reembolsaveis:Medicos-Clinicas-Exames|Laboratorio|PAG*Isoradiologia
+G. Reembolsaveis:Medicos-Clinicas-Exames|Laboratorio|VACICLIN 
+H. Impostos Federais:CPMF-IOF|Governo|IOF
+I. Taxas Bancarias:Manutencao de Conta|Mastercard|ANUIDADE CARTAO T 
+I. Taxas Bancarias:Tarifas|Mastercard|ANUIDADE DIFERENCI
