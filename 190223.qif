@@ -1,0 +1,247 @@
+!Type:Bank
+N22122900
+D29/12/22
+T0.01
+PAjustes
+LB. Outras Receitas:Ajustes
+MTAM CALLCENTER
+^
+N23012300
+D23/01/23
+T-42.00
+PVivara
+LE1. Extraordinarias (Ongoing):Presentes
+MVIVARA SSO        02/10
+^
+N23012301
+D23/01/23
+T-74.00
+MPAG*Osasco        02/03
+^
+N23012500
+D25/01/23
+T-34.00
+MHORTFRUT DO PAULINHO
+^
+N23012600
+D26/01/23
+T-67.47
+PLoja Roupas
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MMLP*NETSHOES      03/04
+^
+N23012601
+D26/01/23
+T-821.70
+PLivraria-Papelaria
+LB2. Educacao (Mensal):Livros-Material Escolar
+MPAMARIS*PAPEL     01/06
+^
+N23012602
+D26/01/23
+T-8.35
+PLivraria-Papelaria
+LB2. Educacao (Mensal):Livros-Material Escolar
+MPAMARIS*PAPEL     01/06
+^
+N23012603
+D26/01/23
+T-24.57
+MAmazon.com.br
+^
+N23012700
+D27/01/23
+T-56.28
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MIMPERATRIZ CARNES OLIV
+^
+N23012701
+D27/01/23
+T-65.77
+PFrutaria Colinas
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MAIRTON VENTURA FRUTAR
+^
+N23012702
+D27/01/23
+T-36.16
+MAmazon.com.br
+^
+N23012703
+D27/01/23
+T-19.26
+MAmazon.com.br
+^
+N23012704
+D27/01/23
+T-49.22
+MAmazon-Marketplace
+^
+N23012900
+D29/01/23
+T-145.02
+PTAM Linhas Aereas
+LD. Viagens:Tkt-Hotel-Auto
+MTAM CALLCENTER    02/02
+^
+N23012901
+D29/01/23
+T-361.68
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MPAG*Fujiyama
+^
+N23012902
+D29/01/23
+T-15.00
+PEstapar
+LE1. Extraordinarias (Ongoing):Taxi-Estacionamento
+MCIRCUIT PARK ESTACIONA
+^
+N23012903
+D29/01/23
+T-22.59
+PPadaria
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPANIFICADORA PARQUE CO
+^
+N23012904
+D29/01/23
+T-77.00
+MMAURICIO MAZZONI
+^
+N23013000
+D30/01/23
+T-465.11
+MAmazon-Marketplace
+^
+N23013100
+D31/01/23
+T-24.75
+POutros
+LE1. Extraordinarias (Ongoing):Assinaturas-Licencas
+MPG *RQX (CORPO SUB01/12
+^
+N23013101
+D31/01/23
+T-353.88
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPEG PESE
+^
+N23020200
+D02/02/23
+T-160.40
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MSTL LIMPEZA
+^
+N23020300
+D03/02/23
+T-124.80
+PEstetica
+LC1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem
+MVin*FcEsteticaLtda
+^
+N23020301
+D03/02/23
+T-96.00
+PEstetica
+LC1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem
+MVin*FcEsteticaLtda
+^
+N23020302
+D03/02/23
+T-120.90
+PLeroy Merlin
+LE1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos
+MLEROY MERLIN      01/03
+^
+N23020303
+D03/02/23
+T-24.00
+MLA BRASA
+^
+N23020304
+D03/02/23
+T-113.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MWITCH BEER CERVEJARIA
+^
+N23020305
+D03/02/23
+T-36.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MPAG*ErikDaSilva
+^
+N23021400
+D14/02/23
+T-97.68
+PLoja Roupas
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MPAG*MobVillaLobos 04/05
+^
+N23021700
+D17/02/23
+T-10.00
+PClaro Celular
+LC1. Lazer-Estetica-Vestuario-Celular:Celular
+MCLARO LJ VILLA LOBOS
+^
+N230223xx
+D23/02/23
+T-42.00
+PVivara
+LE1. Extraordinarias (Ongoing):Presentes
+MVIVARA SSO        03/10
+^
+N230223xx
+D23/02/23
+T-74.00
+MPAG*Osasco        03/03
+^
+N230226xx
+D26/02/23
+T-67.47
+PLoja Roupas
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MMLP*NETSHOES      04/04
+^
+N230226xx
+D26/02/23
+T-821.70
+PLivraria-Papelaria
+LB2. Educacao (Mensal):Livros-Material Escolar
+MPAMARIS*PAPEL     02/06
+^
+N230226xx
+D26/02/23
+T-8.35
+PLivraria-Papelaria
+LB2. Educacao (Mensal):Livros-Material Escolar
+MPAMARIS*PAPEL     02/06
+^
+N230228xx
+D28/02/23
+T-24.75
+POutros
+LE1. Extraordinarias (Ongoing):Assinaturas-Licencas
+MPG *RQX (CORPO SUB02/12
+^
+N230303xx
+D03/03/23
+T-120.90
+PLeroy Merlin
+LE1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos
+MLEROY MERLIN      02/03
+^
+N230314xx
+D14/03/23
+T-97.68
+PLoja Roupas
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MPAG*MobVillaLobos 05/05
+^

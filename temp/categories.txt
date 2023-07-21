@@ -1,0 +1,1042 @@
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	4BIO MEDICAMENTOS 
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	AIR FARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	BIFARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	BRASIL FARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROG EXTRA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROG GLOBO
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROG PERF JOAO MOURA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROG SAO PAULO
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROGA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROGA JOVEM
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROGA RAIA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROGALMEI
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROGAO
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROGARIA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROGASIL
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DROGASIL 
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	DSP
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	EFARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	FARMA
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	FARMALEMOS
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	FCIA PAGUE MENOS
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	INNOVA PHARMA 
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	MERCEARIA DA SAUDE
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	MULTIDROGAS
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	PANVEL FARMACIAS
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	FARMACIA 
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	PROMED
+B1. Alimentacao-Drogaria-Vet:Drogaria	Drogaria	RAIA 
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Açougue	ACOUGUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Açougue	PATA NEGRA 
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Extra	EXTRA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Extra	HIPER
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Frutaria Colinas	AIRTON VENTURA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Frutaria Colinas	FRUTARIA COLLINAS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Frutaria Colinas	HORTIFRUTI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Mambo Supermercado	MAMBO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Outros	CARVOARIA MARTINS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Outros	DISTRIBUIDORA DE HORTI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Outros	HORT CENTER
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Outros	MERCEARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Outros	PADARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Outros	PANIFICADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Outros	FRUTAS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Outros	WINERY
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Pao de Açucar	PAO DE ACUCA 
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Pao do Parque	CASA  P  D  FILO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Pao do Parque	PADARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Pao do Parque	PANIFICAD
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Pao do Parque	PAO DO PARQUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Restaurantes	PIZZARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Restaurantes	BABBO GIOVANNI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Restaurantes	BEEF BOUTIQUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Restaurantes	DRL PAES E DOCES LTDA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Restaurantes	VILA GOURMET
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Restaurantes	SORVETERIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Restaurantes	RESTAURANTE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SAM S
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SUPERMERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	ARMAZEM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	ASSAI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	BEEF SMART
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	BIG
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	BRF S.A.
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	Cacau Show
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	CARREFOUR
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	CARVOARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	CARNES
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	BOLOS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	CHOCOLATES
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	COMPREBEM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	CONDESSA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SUPERMERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	DAISO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	HORTI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	DONA DEOLA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	CANASTRA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	CHIAPPETTA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	NATURALLE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	EMPORIO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	FRUTARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	HORTI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	JBS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	KAITEM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	KIT KAT
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	LE PETIT MARCHE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	LOJINHA PERDIGAO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	MASSA RICCI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	MASSAS RICCI
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	MERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	MERCEARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	MINIMERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	NATURAL DA TERRA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	NATUSVERDE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	NESPRESSO ELDORADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	O ACOUGUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	OBA HORTIFRUT
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	P A DELIVERY
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	KING BREAD
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PAES DOCES COMENDADOR
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PAG*BancaMarioFrutas
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PAG*feirapremium
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PAG*Jaguare
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PAG*Peixariagourmet
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PAG*Queijos
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PAG*Spani
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PAO DE ACUCAR
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PATA NEGRA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PEG PESE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PEG PESE SUPERMERCADO5
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PEIXARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	PESCADOS
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	RAINHA DO MERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	RED SUPERM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	REDE OBA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SACOLAO BUTANTA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SAGRADO BOULANGERIE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SAM S CLUB
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SEFCAL FABRICACAO E CO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SENDAS DISTR
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SONDA SUPER
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	ST ETIENN
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	ST MARCHE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	STL DISTRIB
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	STL LIMPEZA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	SWIFT
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	TAPIOCA DO JU
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	VILA MERCADO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	WAL MART
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	WMB SUPERM
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	WORLD WINE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos	Supermercado	ZAFFARI
+B1. Alimentacao-Drogaria-Vet:Pet Center	Cobasi	COBASI
+B1. Alimentacao-Drogaria-Vet:Pet Center	Pet Center	DOG S DAY 
+B1. Alimentacao-Drogaria-Vet:Pet Center	Pet Center	FINPET
+B1. Alimentacao-Drogaria-Vet:Pet Center	Pet Center	LAB VET
+B1. Alimentacao-Drogaria-Vet:Pet Center	Pet Center	PAG*PetCenterComercio
+B1. Alimentacao-Drogaria-Vet:Pet Center	Pet Center	PET SHOP
+B1. Alimentacao-Drogaria-Vet:Pet Center	Pet Center	PET CENTER
+B1. Alimentacao-Drogaria-Vet:Pet Center	Pet Center	PETS E LIFE
+B1. Alimentacao-Drogaria-Vet:Pet Center	Pet Center	PETZ
+B1. Alimentacao-Drogaria-Vet:Pet Center	Veterinária Jaguaré	VETERINARIA JAGUARE
+B2. Educacao (Mensal):Escola Marina	Outros	WORKBOOK
+B2. Educacao (Mensal):Livros-Material Escolar	kalunga	KALUNGA
+B2. Educacao (Mensal):Livros-Material Escolar	Livro Facil	LIVRO FACIL 
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	COM MAT P CONST PEL
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	EDITORA ATICA LTDA
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	EDITORA MODERNA 
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	E-SAS
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	FC ESTETICA EIRELI
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	FLAVIA MARIA-CT CA
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	HOTEL MARQUES LTDA
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	JJ SP SHOP VILLA L
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	MISASPEL  - LIVROS
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	MULTI CENTER
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	MULTICOISAS
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	PAMARIS
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	PAPEL MAGIA
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	SARAIVA
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	SERASA            
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	SPR COM
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	SPR PAPEL
+B2. Educacao (Mensal):Livros-Material Escolar	Outros	WORKBOOK
+B2. Educacao (Mensal):Merenda	Outros	GRAN SAPORE
+C1. Lazer-Estetica-Vestuario-Celular:Celular	Claro Celular	CLARO LJ
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Ingresso	CINEARTE POMPEIA
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Ingresso	CINEMARK
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Ingresso	CINEMA
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Ingresso	INGRESSO
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Ingresso	KINOPLEX
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Ingresso	UCI CINEMAS
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Ingresso	MEGABILHETERI
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Ingresso	EVENTIMBRA
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Outros	TKTS FOR FUN
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Outros	UCI BRASIL
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao	Outros	UCI CINEMAS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Homa	HOMA
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	BEAUTY BEAUTY
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	BODY E BEAUTY
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	BARBERSHOP
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	COSMETICOS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	CICERO CARDOSO RAMOS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	ESMALTERIA
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	DERMA SKIN 
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	CABELEIR
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	FC ESTETICA EIRELI
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	BEAUTY HAIR
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	HANDS CARE
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	JACQUES JANINE
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	JJ SP SHOP VILLA L
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	JTSTETIC 
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	SAUDE E BELEZA 
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	NAO MAIS PELO
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	NAO MAIS PELO 
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	PRO BEAUTY
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	RITZ CABELEIREIROS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	SOMBRANCELHAS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	STUDIO DE BELEZA
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	ESTETICA
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	THELMA & LOUIZE
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	CABELEIREIROS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Outros	VITA CORPUS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem	Zeka Cabelereiro	CLUBE DAS UNHAS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ABBRACCIO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ADEGA SANTIAGO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ALMANARA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	AMERICA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	AMOR AOS PEDACOS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ANDIAMO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	APPLEBEE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ASTOR
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BABBO GIOVANNI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BURGER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BACCIO DI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BACIO DI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BAKED POTATO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BELLA PAULISTA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BOTECO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BOVINU
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BRASCATTA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BRASSERIE LE JAZZ
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BRUTTUS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BURDOG
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	C C RAMOS CALDO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CABANA SHOPP
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CACAU SHOW
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CALDO DE CANA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CANTINA DO PIERO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CANTINA MONTECHIARO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CANTINA SPERANZA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CANTO DA MATA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CASA DE ESFIHA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CASA DO PAO DE QUEIJO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CERVEJARIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CHEF BENON
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CHINA IN BOX
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CHINA LAKE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	COCO BAMBU
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CRYSTAL PIZZA BAR
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	DENGO CHOCOLATES SA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	DIVINO FOGAO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	DOCEIRA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	DON PEPE DI NAPOLI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	DONA DEOLA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	EL CAMINO FOODS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ESFIHAS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	GOURMET
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ETIENNE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	FEIRA DO CONDOMINIO OS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	FRANGO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	FUJIYAMA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	GAIA GRILL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	GAIA NATURAL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	GALERIA DOS PAES
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	GALETO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	GENDAI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	GENERAL PRIME BURGER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	GRAAL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	GRAO EXPRESSO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	HABIBS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	HAMBUGRERIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	HAVANA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	HAVANNA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	IA POKE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ICI BRASSERIE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ICI MARKET PLACE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	IFD*
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ifood
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	JARDIM DE NAPOLI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	JIN JIN SUSHI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	JUCALEMAO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	K F C
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	SUSHI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	KEBAB DO GREGO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	KFC
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	KFC SH. VILA OLIMPIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	HAMBURGUERIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	KOPENHAGEN
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ENTRECOTE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	LA GUAPA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	LANCHES
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	LANCHONETE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	MADEIRO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	MADERO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	MAGNOLIA CAFE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	MANGIARE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	MANGO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	MANIA DE CHURRASCO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	MC DONALD
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	MONTANA GRILL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	MR CHENEY
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	CANTO DA MATA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	OAKBERRY
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	OFNER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BURGER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BURGUER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	OUTBACK
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*AnaPaulaPinho
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Applebees
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*AstorVilaMadalena
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*BarLeo
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*BrascanSthRP
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Brascatta
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*BrauPaulista
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*BrazPinheiros
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*ChoppTimeChoperia
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*ClaudioLuizPereir
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Colmeia
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Congonhas
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*CookieDaNoiva
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Diniz
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*DuJourChocolate
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*ElianeOliveira
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*ErikDaSilva
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*feirapremium
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Fujiyama
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*GhFernandesComerc
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*GiroPizzaTruck
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*GpSaoPaulo
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*IciVillaLobos
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Jigsbrau
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*JmlpRestauranteEP
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*LaCrapulla
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*LaFavoritaFood
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*LanchoneteDaCidad
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*LedaMariaRochaDa
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Lejazz
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*LeJazzBarE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*MarceloAlexandre
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*MariaLuciaTadeuM
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*MariaLuciaTadeuMo
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	Pag*marialuciatadeumo
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*MisterPlus
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*MygatiSushi
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*NaellyDeAndrade
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*NovaVila
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Original
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*PecorinoBarE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*PirajaEldorado
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*PlanetaAcai
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*PortalDoRioPequen
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*PortorosePizzaria
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*Rascal
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*RESTAURANTECAICAR
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*TemakeriaECia
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*UniaoOsascoSthShP
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*yakilorian
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAG*ZmMexicanFood
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PAGOS TANINO W.BAR Y S
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PALETERIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PARIS 6
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PARRILA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PATI PIVA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PATRONI PIZZA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PECORINO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PIRAJA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	PIZZA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	POBRE JUAN
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	POKE POKE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	RASCAL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	REI DA PAMONHA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	REI DO MATE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	RESTAURANTE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	RICONCITO PERUANO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ROCHINHA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	RODOSERV
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	RODOSNACK
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	BOULANGERIE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	SALLVATTORE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	SAPORE SA CAMPINAS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	SI SENOR
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	SODIE DOCES
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	SORVETERIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	SPOLETO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	ST ETIENN
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	STARBUCKS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	SUBWAY
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	SUCO BAGACO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	TABERNA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	TEMAK
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	THE BARLEY HOUSE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	THE FIFTIES
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	TOMANIK PIZZA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	DO PIERO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	UBER * EATS
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	VIENA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	VINHERIA PERCUSSI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	WITCH BEER
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	YOGOBERRY
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Restaurantes	Z DELI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Tuhu	TUHU
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes	Tuhu	TUHU RESTAURANTE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Arezzo	AREZZO 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Calzedonia	ALNITAK 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Calzedonia	CALZEDONIA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	CORELLO	CORELLO
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Decathlon	DECATHLON
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Intimissimi	ALNILAM
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Intimissimi	INTIMISS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Lojas	JOGE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Lojas	DAFITI
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Lojas	DECO SKIN
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Lojas	GMS MODAS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Lojas	GREGORY
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Lojas	RENNER
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Lojas	MOB
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Lojas	RESTOQUE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Loungerie	LOUNGERIE         
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	FARM VILL
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	ADIDAS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	ALO BEBE 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	ANY ANY 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	AUTHENTIC FEET
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	BOUTIQUE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	C & A
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	C E A
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	C&A
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	CALCADOS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	CASA DAS CUECAS 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	CENTAURO
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	CIA MARITIMA 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	CNS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	CRAWFORD
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	CROCS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	DRESS CODE 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	EMPORIONAKA 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	FASCAR
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	FOREVER21
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	GREGORY 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	HAVAIANA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	HERING 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	CONFECCOES
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	HOPE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	LADO BASIC
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	LE LIS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	LEVI S
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	LUPO
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	M OFFICER
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	MEIAO MEIAS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	MEIAO MEIAS COMERCIAL
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	MOB       
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	NETSHOES
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	NIKE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	FASHION
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	PUKET
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	LINGERIE
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	RICHARDS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	ROUPARIA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	ROYAL BRANDS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	SCALA 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	SEDUTI
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	SESTINI 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	SHOESTOCK 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	SIDE WALK 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	SO MEIAS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	SPEEDO 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	Superga
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	TIMBERLAND
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	TRACK FIELD
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	VILA ROMANA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	YACHTSMAN 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	YMAN MORUMBI
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Outros	ZELO 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Vila Romana	VilaRomana 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla	Zara	ZARA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Lojas	SHEIN
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Lojas	FOTOPTICA
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	ADIDAS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	AHOLIC
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	AUTHENTIC FEET 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	BAYARD 
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	BLUE BEACH
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	CALCADOS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	FOREVER
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	HERING
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	INBRANDS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	MAGIC FEET
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe	Outros	SPEEDO
+D. Viagens:Tkt-Hotel-Auto	Hotel	CLUB MED 
+D. Viagens:Tkt-Hotel-Auto	Outros	HERTZ
+D. Viagens:Tkt-Hotel-Auto	Hotel	HOTEL
+D. Viagens:Tkt-Hotel-Auto	Hotel	POUSADA
+D. Viagens:Seguro	Outros	ASSIST CARD       
+D. Viagens:Tkt-Hotel-Auto	Outros	CVC BRASIL FL 
+D. Viagens:Tkt-Hotel-Auto	Gol Linhas Aereas	GOL LINHA
+D. Viagens:Tkt-Hotel-Auto	Gol Linhas Aereas	GOL TRAN
+D. Viagens:Tkt-Hotel-Auto	Hotel	Vrbo
+D. Viagens:Tkt-Hotel-Auto	Hotel	Vrbo HAF181P1 
+D. Viagens:Tkt-Hotel-Auto	TAM Linhas Aereas	LATAM AIRLINES
+D. Viagens:Tkt-Hotel-Auto	TAM Linhas Aereas	LATAM SITE        
+D. Viagens:Tkt-Hotel-Auto	TAM Linhas Aereas	TAM AGEN
+D. Viagens:Tkt-Hotel-Auto	TAM Linhas Aereas	TAM CALLC
+D. Viagens:Tkt-Hotel-Auto	TAM Linhas Aereas	TAM LINHAS
+D. Viagens:Tkt-Hotel-Auto	TAM Linhas Aereas	TAM MULTIPLUS
+D. Viagens:Tkt-Hotel-Auto	TAM Linhas Aereas	TAM SITE 
+D. Viagens:Tkt-Hotel-Auto	TAM Linhas Aereas	TAM VIAG
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas	Microsoft	MICROSOFT
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas	Microsoft	MSFT *
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas	Netflix	NETFLIX
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas	Outros	CERTISI*CERTI02346577
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas	Outros	Kaspersky
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas	Outros	GODADDY
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas	Outros	GOOGLE PLAY
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas	Outros	NAVIGRAPH
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas	Outros	SERASA
+E1. Extraordinarias (Ongoing):Presentes	Arezzo	AREZZO
+E1. Extraordinarias (Ongoing):Presentes	Fast Shop	FAST SHOP
+E1. Extraordinarias (Ongoing):Presentes	Lojas	ALO BEBE 
+E1. Extraordinarias (Ongoing):Presentes	Lojas	BODY SHOP
+E1. Extraordinarias (Ongoing):Presentes	Lojas	GIULIANA FLORES 
+E1. Extraordinarias (Ongoing):Presentes	Lojas	GRANADO
+E1. Extraordinarias (Ongoing):Presentes	Lojas	BOTICARIO
+E1. Extraordinarias (Ongoing):Presentes	Lojas	JK JOIAS 
+E1. Extraordinarias (Ongoing):Presentes	Lojas	JOKER SOCKS 
+E1. Extraordinarias (Ongoing):Presentes	Lojas	ZAPALLA           
+E1. Extraordinarias (Ongoing):Presentes	Outros	ALO BEBE 
+E1. Extraordinarias (Ongoing):Presentes	Outros	BRINQUEDOS
+E1. Extraordinarias (Ongoing):Presentes	Outros	BMART
+E1. Extraordinarias (Ongoing):Presentes	Outros	FLORES ON LINE
+E1. Extraordinarias (Ongoing):Presentes	Outros	IMAGINARIUM
+E1. Extraordinarias (Ongoing):Presentes	Outros	LOCCITANE
+E1. Extraordinarias (Ongoing):Presentes	Outros	PB KIDS
+E1. Extraordinarias (Ongoing):Presentes	Outros	SPICY
+E1. Extraordinarias (Ongoing):Presentes	Outros	SWAROVSKI
+E1. Extraordinarias (Ongoing):Presentes	Ri Happy	HI HAPPY
+E1. Extraordinarias (Ongoing):Presentes	Vivara	VIVARA
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	C&C	C C - OSASCO
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	C&C	C C MORUM
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	C&C	C&C
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Copeli Matl Eletrico	COPELI
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	IG Lavanderia	5 A SEC
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	IG Lavanderia	DRY CLEAN
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	IG Lavanderia	IG LAVANDERIAS
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	kalunga	KALUNGA
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Leroy Merlin	LEROY
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Lojas	CAMICADO          
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Lojas	CASA ALMEIDA 
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Lojas	MULTICOMERCIAL
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Lojas	MWA FESTAS
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Lojas	TOK&STOK          
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Outros	CASA AGRICOLA 
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Outros	CONIBASE
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Outros	CONSTRUCEL
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Outros	PISCINA
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Outros	DEPOSITO CONTINENTAL
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Outros	MULTICOISAS
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Outros	PRECOLANDIA 
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Outros	VIA VAREJO 
+E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos	Telhanorte	TELHA NORTE
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	AUTO VAGAS
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	ESTACIONA
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	PARK
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	CONECTCAR
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	ESTAC SHOP ELDORADO
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	ESTAPAR
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	SAO PAULO AIRPORT
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	SHOPPING UNIAO
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	SHOPPING VILLA LOBOS
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	SHOPPING VILLA LOBOS
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Estapar	SPBGRU
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Taxi	COOPSETA
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Taxi	GUARUCOOP
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Taxi	TAXI
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento	Uber	UBER
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	FAST TECH-SH.ELDORADO
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	LILY FLORES
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	LUAL INFORMATICA
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	PAG*NevadaPiscinas
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	PRINCESA FLORES
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	RENOVE DISTRIBUIDORA - matl para limpeza piscina
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	SANTIL
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	SANTIL 
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	SANTIL ELETRICA
+E2. Extraordinarias (One Time):Manutencao Residencia	Outros	WWWCASACENT 
+E2. Extraordinarias (One Time):Manutencao Residencia	Submarino	SUBMARINO 
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	4BIO	4BIO MEDICAMENTOS 
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Arp Med	ARP MED 
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Centro Médico Viver Melhor	AUXILIAR PLASTICA - 00.563.-45
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Centro Médico Viver Melhor	CIRURGIA PLASTICA - 00.563.-45
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Centro Médico Viver Melhor	INSTRUM PLASTICA - 00.563.-45
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Fleury	FLEURY 
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Fleury	FLEURY MEDICINA E 
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Hospital Albert Einstein	EINSTEIN MORUMBI  
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Hospital Albert Einstein	HOSPITAL ALBERT EI
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Hospital Albert Einstein	HOSPITAL ALBERT EI - vacinas
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Outros	CLINICA ODONT RODO
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Outros	FABIANA RUBINI LOP dentista
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Outros	Vaciclin
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames	Radiodoc (Cedro Doc Radiologica)	RADIODOC 
+E2. Extraordinarias (One Time):Outras	Mastercad Black	DB DIFERENCA COTACAO U$
+E2. Extraordinarias (One Time):Outras	Mastercard Personnalite	DB DIFERENCA COTACAO U$
+E2. Extraordinarias (One Time):Outras	Outros	AJS PRESTADORA DE SERV
+E2. Extraordinarias (One Time):Outras	Outros	ALPHA EXPRESS
+E2. Extraordinarias (One Time):Outras	Outros	AMCA - 44.82 (USD)
+E2. Extraordinarias (One Time):Outras	Outros	ANHEMBI TENIS CLUBE
+E2. Extraordinarias (One Time):Outras	Outros	APM SANTO AMERICO
+E2. Extraordinarias (One Time):Outras	Outros	ASAAS*Motoboy.com
+E2. Extraordinarias (One Time):Outras	Outros	AVIS HOTEL NH MTY
+E2. Extraordinarias (One Time):Outras	Outros	BIKESITE CONTINENTAL
+E2. Extraordinarias (One Time):Outras	Outros	BLACK TIME
+E2. Extraordinarias (One Time):Outras	Outros	BLANK
+E2. Extraordinarias (One Time):Outras	Outros	CA GVN 177 
+E2. Extraordinarias (One Time):Outras	Outros	CALFER PARTICIPACOES E
+E2. Extraordinarias (One Time):Outras	Outros	CEKF COMPANY 
+E2. Extraordinarias (One Time):Outras	Outros	CEMITERIO DA PAZ 
+E2. Extraordinarias (One Time):Outras	Outros	CENTAURO.COM* 
+E2. Extraordinarias (One Time):Outras	Outros	CIA NORTE
+E2. Extraordinarias (One Time):Outras	Outros	CJ2 COMERCIO DE PRODUT
+E2. Extraordinarias (One Time):Outras	Outros	DB COPIAS
+E2. Extraordinarias (One Time):Outras	Outros	DEBITO DIF COT DOLAR
+E2. Extraordinarias (One Time):Outras	Outros	DECIMO QUARTO TABELIO
+E2. Extraordinarias (One Time):Outras	Outros	DNH*GODADDY.COM USD 59.88
+E2. Extraordinarias (One Time):Outras	Outros	DOL
+E2. Extraordinarias (One Time):Outras	Outros	DORADO SOL COMERCIO DE
+E2. Extraordinarias (One Time):Outras	Outros	DR SOFTWARE DOWNLOAD*D
+E2. Extraordinarias (One Time):Outras	Outros	DS PRIME COMERCIO EIRE
+E2. Extraordinarias (One Time):Outras	Outros	DSP 0266 SHP V LOBOS
+E2. Extraordinarias (One Time):Outras	Outros	DTMK COMERCIO
+E2. Extraordinarias (One Time):Outras	Outros	EBANX SONYPLAYSTATN
+E2. Extraordinarias (One Time):Outras	Outros	EKAN
+E2. Extraordinarias (One Time):Outras	Outros	EMPRESA AUTO ONIBUS MA
+E2. Extraordinarias (One Time):Outras	Outros	ESPACO VILLA LOBOS
+E2. Extraordinarias (One Time):Outras	Outros	F J R INF - Tela iPhone
+E2. Extraordinarias (One Time):Outras	Outros	FONIX SAMARA
+E2. Extraordinarias (One Time):Outras	Outros	FOUR WHEEL
+E2. Extraordinarias (One Time):Outras	Outros	FULL PRINT
+E2. Extraordinarias (One Time):Outras	Outros	FUNDART           
+E2. Extraordinarias (One Time):Outras	Outros	GWP OPERADORA
+E2. Extraordinarias (One Time):Outras	Outros	HERTZ MTY SHERAT
+E2. Extraordinarias (One Time):Outras	Outros	HOURSTRACKERCLOUD.COM USD 19.99
+E2. Extraordinarias (One Time):Outras	Outros	JOANE PAULA MELO ESPOS
+E2. Extraordinarias (One Time):Outras	Outros	JOAO PORFIRIO NETO FAR
+E2. Extraordinarias (One Time):Outras	Outros	KODAK EXPRESS - DIGITA
+E2. Extraordinarias (One Time):Outras	Outros	LASTPASS.COM USD 24
+E2. Extraordinarias (One Time):Outras	Outros	LITORAL SUL
+E2. Extraordinarias (One Time):Outras	Outros	LS MESTRE 
+E2. Extraordinarias (One Time):Outras	Outros	LUMEN SUC SAMARA
+E2. Extraordinarias (One Time):Outras	Outros	M.T NATURA
+E2. Extraordinarias (One Time):Outras	Outros	MAK FRIGO REFRIGER
+E2. Extraordinarias (One Time):Outras	Outros	MANOEL RODRIGUES
+E2. Extraordinarias (One Time):Outras	Outros	MERCPAGO*LOJATRAPI
+E2. Extraordinarias (One Time):Outras	Outros	NAPOLEAO TAKESHITA
+E2. Extraordinarias (One Time):Outras	Outros	OSA01 OSASCO SP   
+E2. Extraordinarias (One Time):Outras	Outros	PAG*Eldorado
+E2. Extraordinarias (One Time):Outras	Outros	PAG*IlhaNova
+E2. Extraordinarias (One Time):Outras	Outros	PAG*Luisexpress
+E2. Extraordinarias (One Time):Outras	Outros	PAG*MLmaleiros MALEIRO
+E2. Extraordinarias (One Time):Outras	Outros	PAG*Quero2Pay
+E2. Extraordinarias (One Time):Outras	Outros	PAG*SpcBrasil
+E2. Extraordinarias (One Time):Outras	Outros	PAGFORTE II
+E2. Extraordinarias (One Time):Outras	Outros	PAGSEGURO
+E2. Extraordinarias (One Time):Outras	Outros	PAGSEGURO 
+E2. Extraordinarias (One Time):Outras	Outros	PAGSEGUROUOL*DueFamePa
+E2. Extraordinarias (One Time):Outras	Outros	PAGSEGUROUOL*Jcecconi
+E2. Extraordinarias (One Time):Outras	Outros	PANAMERICANA MOBILIARI
+E2. Extraordinarias (One Time):Outras	Outros	PANDA
+E2. Extraordinarias (One Time):Outras	Outros	PAYPAL *ROBOFORM
+E2. Extraordinarias (One Time):Outras	Outros	PG *APOIO AO HOSP
+E2. Extraordinarias (One Time):Outras	Outros	PG *BENFEITORIA CESTAS
+E2. Extraordinarias (One Time):Outras	Outros	PG *TAXA DE VISTO
+E2. Extraordinarias (One Time):Outras	Outros	POLA PILHA-SH.ELDORADO
+E2. Extraordinarias (One Time):Outras	Outros	PP*5179CODE
+E2. Extraordinarias (One Time):Outras	Outros	Progetto Arca
+E2. Extraordinarias (One Time):Outras	Outros	REI DA CUTELARIA 
+E2. Extraordinarias (One Time):Outras	Outros	RODRIGO JOSE
+E2. Extraordinarias (One Time):Outras	Outros	SPA43 PRESALTINO SP
+E2. Extraordinarias (One Time):Outras	Outros	STAR 017
+E2. Extraordinarias (One Time):Outras	Outros	STELO S A
+E2. Extraordinarias (One Time):Outras	Outros	TALENTO
+E2. Extraordinarias (One Time):Outras	Outros	TELCEL SANTA FE
+E2. Extraordinarias (One Time):Outras	Outros	TIME WHITE TRAJES 
+E2. Extraordinarias (One Time):Outras	Outros	VESTA TELCEL 180068115
+E2. Extraordinarias (One Time):Outras	Outros	VIDEO DUMONT LOURDES
+E2. Extraordinarias (One Time):Outras	Outros	VILLA LOBOS
+E2. Extraordinarias (One Time):Outras	Outros	VISA FEE FOR US DOS - VISTO EUA
+E2. Extraordinarias (One Time):Outras	Outros	ZP *DONATIONBR
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia	Francesca S Laure	FRANCESCA S LAURE
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia	Petz	PETZ JAGUARE
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia	Petz	PETZ JAGUARE 
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia	Petz	PETZ OSASCO 
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia	Veterinária Jaguaré	CONSULTORIO VETERINARI
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia	Veterinária Jaguaré	PETS   LIFE HEMOCENTRO
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia	Veterinária Jaguaré	PETS LIFE HEMOCENTRO
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia	Veterinária Jaguaré	VETERINARIA JAGUARE
+E2. Extraordinarias (One Time):Veterinario-Fisioterapia	Veterinária Jaguaré	Veterinaria Jaguare
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	A P DUQUE VILA LOBOS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	A P PQ VILLA LOBOS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	A P ROCAS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	A POSTO JARDIM ESTHER
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	A POSTO LG DE PINHEI
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	A POSTO N BROOKLIN LTD
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	A. P. HUNGRIA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	ADM POSTOS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	ALESAT AUTO POSTO JULE
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	ARGETAX GTAX COLISEU
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	ASTURIAS AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	ASTURIAS AUTO POSTO LT
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO P BONFIGLIOLI
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO AUSTRIA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO BAND 1
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO BONFIGLIOLI
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO BRIGADEIRO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO BUGALU
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO BULGARIN
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO CARANDA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO CERRO CORA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO CITY LAPA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO DOIS IRMAOS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO DOIS XIS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO DOS PASSARO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO DUQUE J LTD
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO ESCALADA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO G A G
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO GA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO HUNGRIA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO MARAPE
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO MD 11
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO META
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO NATURAFLEX
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO PARAISO II
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO PASIL
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO PETROVAL
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO PHENIX
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO POLITECNICA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO PORTAL DA R
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO QUADRA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO QUINTAS MOR
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO RANGER
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO S F
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO SAVEMO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO SIRACUSA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO STA TEREZIN
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO TASCA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO TASCA M
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO TASCA MARTE
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO TECFAC LTD
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO UNIVERSITAR
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO VIA JAGUARE
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	AUTO POSTO VILA UNIVER
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	C A AGUA ESPRAIADA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	C A OLIMPIA BANDEIRANT
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	C AUTOMOTIVO ALPHA ZER
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	C S VENEZA LTDA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	CCM AUTO POSTO 2
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	CENTER CAR AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	CENTRO AUTOM AGUA ESPR
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	CENTRO AUTOMOTIVO AGUA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	CENTRO AUTOMOTIVO PORT
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	CENTRO COM SER VENEZ
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	CENTRO COM SER VENEZ-
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	CENTRO DE COMB VENEZA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	CENTRO DE COMBUSTIVEIS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	COREL AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	DUTRAO AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	DUTRAO AUTO POSTO LTDA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	ELISEU AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	ESPANHA SRV AUTOMOT
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	EXTRA CAR AUTO POSTO L
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	EXTRA POS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	EXTRA POSTO 2725 JAGUA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	FELIPE WASH CAR LTDA M
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	FLASH CAR
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	FORTSUL POSTO DE SERVI
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	G & G AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	GIGANTE AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	HIPERPETRO II
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	IVANA GARDEN
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	IVANA GARDEN A.POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	JOCKEY CAR POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	LAVA RAPIDO MUNDIAL
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	LAVA RAPIDO OSHIMA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	M G DE S PICHININ
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	MEGA FLORA AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	MEGADELTA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	MIX AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	NOVO TUCURUVI
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	PAG*PostoHoraCerta
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	PAG*PostoPortalDoMoru
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	PAG*PostoRelevo
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	PAGSEGUROUOL*lavarapid
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	PIRAPANEMA SERVICOS AU
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	PIXINGUINHA AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POLITECNICA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	PORTAL DA ALDEIA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO 207
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO 2725 JAGUARE
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO 2766 RAPOSO TAV
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO ADALGIZA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO AUTOMOTIVO AVANC
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO DA PRACA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO DE SERVICO JOMAR
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO DUQUE REBOUCAS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO EXTRA R JAFET262
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO FRANGO ASSADO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO FULLGAS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO GALAPAGOS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO GIRASOL SHEEL
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO ILHAS DO HAVAI
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO IPIRANGA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO ITAPURA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO JOMAR
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO META CENESP
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO MINUANO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO MUNDO NOVO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO NATURAFLEX
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO OSCAR PORTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO OURO BRANCO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PAINEIRAS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PANAMBY
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PANAMBY-SHELL
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PANAMERICANA LTD
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PASCUA MARQUES
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PHENIX
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PORTAL ALDEIA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PORTAL ALDEIA COTIA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PQ VILLA LOBOS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PRESIDENTE JK
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO PROVIDENCIA II
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO RJ SAO PEDRO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO SHELL
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO SOL DA DUTRA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO UNIVERSIDADE
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO UNIVERSITARIOS
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO VENEZA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POSTO-2766-RAPOSO TAV
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	POTENZA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	PPR AUTO POSTO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	PRODUTOS E SERVICOS AU
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	RECANTO DA VITORIA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	REDE FLEX
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	REDE PAPA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	REI DO OLEO 
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	S4 ADMINISTRACAO DE PO
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	SERVICOS VENEZA
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	SPAY*A POSTO GAG
+F. Automoveis:Combustivel-Lavagem-Oleo	Combustível	TASCA MARTE
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	ESPANHA SRV AUTOMOT
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	FELIPE WASH CAR LTDA M
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	FOUR WHEEL
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	HVJ COM SERV AUT LT
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	LAVA RAPIDO OSHIMA
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	LAVA RAPIDO SPLASH II
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	LAVA RAPIDO VILA DALVA
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	LAVAPOR VILA LOBOS
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	PRODUTOS E SERVICOS AU
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	REI DO OLEO
+F. Automoveis:Combustivel-Lavagem-Oleo	Outros	REI DO OLEO 
+F. Automoveis:Manutencao-Revisao Auto	Casarini Mitsubishi	CASARINI 
+F. Automoveis:Manutencao-Revisao Auto	Casarini Mitsubishi	ONE 1 VEICULOS 
+F. Automoveis:Manutencao-Revisao Auto	Casarini Mitsubishi	ONE 1 VEICULOS  1.
+F. Automoveis:Manutencao-Revisao Auto	ONE1 Veiculos	ONE 1 VEICULOS
+F. Automoveis:Manutencao-Revisao Auto	Outros	AUTO ESCOLA MARC 
+F. Automoveis:Manutencao-Revisao Auto	Outros	AUTOGLASS LANTERNA OUTLANDER
+F. Automoveis:Manutencao-Revisao Auto	Outros	Baterias Baruk 
+F. Automoveis:Manutencao-Revisao Auto	Outros	BRABUS 
+F. Automoveis:Manutencao-Revisao Auto	Outros	BRABUS           
+F. Automoveis:Manutencao-Revisao Auto	Outros	BRABUS SANTO AMARO
+F. Automoveis:Manutencao-Revisao Auto	Outros	DS BATERIAS AUTOMO
+F. Automoveis:Manutencao-Revisao Auto	Outros	FRAZAO
+F. Automoveis:Manutencao-Revisao Auto	Outros	GENIOS VIDRO AUTO 
+F. Automoveis:Manutencao-Revisao Auto	Outros	GRUPO CARRERA 
+F. Automoveis:Manutencao-Revisao Auto	Outros	ITAVEMA FRANCE VEI
+F. Automoveis:Manutencao-Revisao Auto	Outros	MAZZOCHI AUTO SERVICOS
+F. Automoveis:Manutencao-Revisao Auto	Outros	MITNORTH          
+F. Automoveis:Manutencao-Revisao Auto	Outros	OCEAN AR CONDICION
+F. Automoveis:Manutencao-Revisao Auto	Outros	OCEAN AR CONDICIONADO
+F. Automoveis:Manutencao-Revisao Auto	Outros	PARIS  - PEUGEOT
+F. Automoveis:Manutencao-Revisao Auto	Outros	PRO AUTO VEICULOS
+F. Automoveis:Manutencao-Revisao Auto	Outros	PRO AUTO VEICULOS 
+F. Automoveis:Manutencao-Revisao Auto	Outros	PRODUTOS E SERVICOS AU
+F. Automoveis:Manutencao-Revisao Auto	Outros	REI DO OLEO 
+F. Automoveis:Manutencao-Revisao Auto	Outros	SAFETY SYSTEM - PORTO SEGURO MECANICA
+F. Automoveis:Manutencao-Revisao Auto	Outros	WEB MOTORS 
+F. Automoveis:Manutencao-Revisao Auto	Unicar Martelinho	PAG*AllineBarros 
+F. Automoveis:Registros-Transferencias-Inspecao	Outros	PLENA VISAO
+G. Reembolsaveis:Despesas de Trabalho	Combustível	POSTO META CENESP
+G. Reembolsaveis:Despesas de Trabalho	Estapar	EINSTEN ESTACIONAMENT
+G. Reembolsaveis:Despesas de Trabalho	Estapar	ESTAPAR COND ED SAO LU
+G. Reembolsaveis:Despesas de Trabalho	Gol Linhas Aereas	GOL TRAN AEREO IN  - TKT CARACAS
+G. Reembolsaveis:Despesas de Trabalho	Gol Linhas Aereas	GOL TRAN AEREO INT - TKT CARACAS
+G. Reembolsaveis:Despesas de Trabalho	Gol Linhas Aereas	GOL TRAN AEREO INTERNE - TKT CARACAS
+G. Reembolsaveis:Despesas de Trabalho	Gol Linhas Aereas	GOL TRANSP AEREOS 
+G. Reembolsaveis:Despesas de Trabalho	Gol Linhas Aereas	GOL TRANSP AEREOS  - - TKT COLOMBIA
+G. Reembolsaveis:Despesas de Trabalho	Gol Linhas Aereas	GOL TRANSP AEREOS  - TKT COLOMBIA
+G. Reembolsaveis:Despesas de Trabalho	Gol Linhas Aereas	GOL TRANSP AEREOS  -TKT COLOMBIA
+G. Reembolsaveis:Despesas de Trabalho	Gol Linhas Aereas	GOL TRANSP AEREOS - TKT COLOMBIA
+G. Reembolsaveis:Despesas de Trabalho	Outros	 - DOMAIN NAME REGISTRATI
+G. Reembolsaveis:Despesas de Trabalho	Outros	ANTERIO JOSE TAXI
+G. Reembolsaveis:Despesas de Trabalho	Outros	CARREFOUR SANTA ANA
+G. Reembolsaveis:Despesas de Trabalho	Outros	CG CDG SUD
+G. Reembolsaveis:Despesas de Trabalho	Outros	CLAIRVOIX TAXI
+G. Reembolsaveis:Despesas de Trabalho	Outros	COOPERATIVA RADIO TAXI
+G. Reembolsaveis:Despesas de Trabalho	Outros	CORRAL GOURMET SANTA A
+G. Reembolsaveis:Despesas de Trabalho	Outros	CROWNE PLAZA MARUMA
+G. Reembolsaveis:Despesas de Trabalho	Outros	EIFFEL PARK HOT
+G. Reembolsaveis:Despesas de Trabalho	Outros	ESTAPAR HILTON
+G. Reembolsaveis:Despesas de Trabalho	Outros	EUROTEL
+G. Reembolsaveis:Despesas de Trabalho	Outros	FCL SERVICOS AUTOM
+G. Reembolsaveis:Despesas de Trabalho	Outros	HOTEL SANTA BARBARA RE
+G. Reembolsaveis:Despesas de Trabalho	Outros	HVN - VILLA LOBOS 4
+G. Reembolsaveis:Despesas de Trabalho	Outros	LAGARTO BRASIL CAR T
+G. Reembolsaveis:Despesas de Trabalho	Outros	LEO CONFEITARIA - BOLO CONTAX
+G. Reembolsaveis:Despesas de Trabalho	Outros	LOCAWEB TRIMESTRAL PARA INTERCEPTI
+G. Reembolsaveis:Despesas de Trabalho	Outros	LOS POLLITOS BROASTED
+G. Reembolsaveis:Despesas de Trabalho	Outros	MCAFEE.COM
+G. Reembolsaveis:Despesas de Trabalho	Outros	OURO TAXI
+G. Reembolsaveis:Despesas de Trabalho	Outros	RESTAURANTE ZOE
+G. Reembolsaveis:Despesas de Trabalho	Outros	RETIRADA-EXTERIOR
+G. Reembolsaveis:Despesas de Trabalho	Outros	TARIF RETIRADA EXTERIOR
+G. Reembolsaveis:Despesas de Trabalho	Outros	TAXA DE EMBARQUE
+G. Reembolsaveis:Despesas de Trabalho	Outros	TAXI 349
+G. Reembolsaveis:Despesas de Trabalho	Outros	THE WESTIN PANAMA FRON
+G. Reembolsaveis:Despesas de Trabalho	Outros	TRAVELEX
+G. Reembolsaveis:Despesas de Trabalho	TAM Linhas Aereas	TAM CALL CENTER  TKT GRU/CARACAS
+G. Reembolsaveis:Despesas de Trabalho	TAM Linhas Aereas	TAM SITE  - TKT CHI
+G. Reembolsaveis:Despesas de Trabalho	Taxi	COMO TAXI 84
+G. Reembolsaveis:Despesas de Trabalho	Taxi	DELTA TAXI GMBH
+G. Reembolsaveis:Despesas de Trabalho	Taxi	RADIO TAXI 099 RENATO
+G. Reembolsaveis:Despesas de Trabalho	Taxi	RADIO TAXI 268 ANTONIO
+G. Reembolsaveis:Despesas de Trabalho	Taxi	Taxibetrieb
+G. Reembolsaveis:Despesas de Trabalho	Unicar Martelinho	BTP*UNICAR MARTELI
+G. Reembolsaveis:Despesas de Trabalho	Unicar Martelinho	UNICAR MARTELINHO 
+G. Reembolsaveis:Emprestimos	Gol Linhas Aereas	GOL TRANSP AEREOS*
+G. Reembolsaveis:Emprestimos	Gustavo Marques	PAYPAL *UFLYMIKE
+G. Reembolsaveis:Emprestimos	Outros	ANDIAMO ROCIO - P/ MARIO DESTRI
+G. Reembolsaveis:Emprestimos	Outros	APPLE STORE #R143 - presentes marcelo e daniel
+G. Reembolsaveis:Emprestimos	Outros	INKERDOMI          MANUT PC SR ARTHUR
+G. Reembolsaveis:Medicos-Clinicas-Exames	Adriana Vilarinho	CLINICA ADRIANA VILARI
+G. Reembolsaveis:Medicos-Clinicas-Exames	Alexandre Kaupp	A O KAUP NEUROLOGIA
+G. Reembolsaveis:Medicos-Clinicas-Exames	Centro Médico Viver Melhor	C MEDICO VIVER MELHOR
+G. Reembolsaveis:Medicos-Clinicas-Exames	Centro Médico Viver Melhor	CENTRO MEDICO V MELHOR
+G. Reembolsaveis:Medicos-Clinicas-Exames	Centro Médico Viver Melhor	CENTRO MEDICO VIVER ME
+G. Reembolsaveis:Medicos-Clinicas-Exames	Centro Médico Viver Melhor	GEA SERVICOS MEDICOS
+G. Reembolsaveis:Medicos-Clinicas-Exames	Elaine Dias	DRA. ELAINE DIAS
+G. Reembolsaveis:Medicos-Clinicas-Exames	Gelde Stochero	C MEDICO VIVER MELHOR
+G. Reembolsaveis:Medicos-Clinicas-Exames	Gelde Stochero	CENTRO MEDICO VIVER ME
+G. Reembolsaveis:Medicos-Clinicas-Exames	Hospital Albert Einstein	HOSP ALBERT EINST 
+G. Reembolsaveis:Medicos-Clinicas-Exames	Hospital Albert Einstein	HOSP ALBERT EINSTE
+G. Reembolsaveis:Medicos-Clinicas-Exames	Marcelo Silber	CICLO DE VIDA
+G. Reembolsaveis:Medicos-Clinicas-Exames	Marcelo Silber	CICLO DE VIDA 1.
+G. Reembolsaveis:Medicos-Clinicas-Exames	Marcelo Silber	DR MARCELO SILBER
+G. Reembolsaveis:Medicos-Clinicas-Exames	Outros	DELBONI ALTO PINHEIROS
+G. Reembolsaveis:Medicos-Clinicas-Exames	Outros	DELBONI PINHEIROS
+G. Reembolsaveis:Medicos-Clinicas-Exames	Outros	FLEURY 
+G. Reembolsaveis:Medicos-Clinicas-Exames	Outros	FLEURY MEDICINA E 
+G. Reembolsaveis:Medicos-Clinicas-Exames	Outros	HOSP ALBERT EINST 
+G. Reembolsaveis:Medicos-Clinicas-Exames	Outros	PAG*Isoradiologia
+G. Reembolsaveis:Medicos-Clinicas-Exames	Outros	VACICLIN 
+G. Reembolsaveis:Medicos-Clinicas-Exames	Outros	VACICLIN OSASCO 
+G. Reembolsaveis:Medicos-Clinicas-Exames	Outros	VACICLIN OSASCO   
+G. Reembolsaveis:Medicos-Clinicas-Exames	Rita Nely Vilar Furtado	FURTADO AGUIAR
+H. Impostos Federais:CPMF-IOF	Governo	 - IMPOSTO COMPRA INT-IOF
+H. Impostos Federais:CPMF-IOF	Governo	DEBITO DE IOF
+H. Impostos Federais:CPMF-IOF	Governo	ESTORNO CUSTO DE IOF
+H. Impostos Federais:CPMF-IOF	Governo	IMPOSTO COMPRA INT-IOF
+H. Impostos Federais:CPMF-IOF	Governo	IMPOSTO COMPRA INT-IOF - 
+H. Impostos Federais:CPMF-IOF	Governo	IMPOSTO COMPRA INT-IOF - USD 25,99
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA - 10.62 (USD)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA - 2.86 (USD)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA - 5.74 (USD)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA - 65.84 (USD)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA - 8.25 (USD)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA - USD 0.56
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA - USD 0.96
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA - USD 34.42
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA (USD 0.2)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA (USD 0.31)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA (USD 0.76)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA (USD 13.67)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA (USD 2.04)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA (USD 2.74)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA (USD 26.93)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 0.22 USD 8.15
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 0.63 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 0.67 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 0.74 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 0.75 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 0.82 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 0.84 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 0.95 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 1.01 USD 0.94
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 1.08 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 1.27 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 1.35 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 1.37 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 1.78 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 1.91 USD
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 1.92 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 12.41 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 12.77 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 2.09 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 2.34 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA- 2.94 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 3.19 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 32.96 USD 4.31
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 35.76 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 4.08 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 4.26 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 5.68 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 6.73 USD 140.74
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 7.64 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA 8.34 (U. S. DOLLAR)
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA usd 0.09
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 0.30
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 0.40
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 0.44
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 0.50
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 0.77
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 0.99
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 1.28
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 1.38
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 1.53
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA usd 1.75
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 1.81
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 1.91
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 1.97
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 14.58
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 2.05
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 2.08
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 2.39
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 2.46
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 2.59
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 2.60
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 2.74
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 3.82
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 4.02
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 5.35
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 6.03
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 7.05
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 72.33
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 73.74
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 8.05
+H. Impostos Federais:CPMF-IOF	Governo	IOF COMPRA INTERNACIONA USD 8.13
+H. Impostos Federais:CPMF-IOF	Governo	OF COMPRA INTERNACIONA
+H. Impostos Federais:CPMF-IOF	Governo	REPASSE CUSTO IOF
+H. Impostos Federais:CPMF-IOF	Governo	Repasse de IOF em R$
+H. Impostos Federais:CPMF-IOF	Governo	REPASSE IOF
+I. Taxas Bancarias:Encargos-Juros	Mastercard Personnalite	 - DEBITO DIF COT DOLAR
+I. Taxas Bancarias:Encargos-Juros	Outros	DEBITO DIF COT DOLAR
+I. Taxas Bancarias:Encargos-Juros	Outros	EST DIF COT DOLAR
+I. Taxas Bancarias:Manutencao de Conta	Mastercard Personnalite	ANUIDADE CARTAO T 
+I. Taxas Bancarias:Tarifas	Mastercad Black	ANUIDADE DIFERENCI

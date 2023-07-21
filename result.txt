@@ -1,0 +1,118 @@
+{ date: 06/01/2022, originalDate: 06/01/2022, offset: null, memo: DROGARIA SAO PAULO SA, payee: Drogaria, category: B1. Alimentacao-Drogaria-Vet:Drogaria, amount: -0.04 } 
+{ date: 08/01/2022, originalDate: 08/01/2022, offset: null, memo: MOBLY VILLA LOBOS, payee: Lojas, category: C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla, amount: -0.01 } 
+{ date: 08/01/2022, originalDate: 08/01/2022, offset: null, memo: LEROY MERLIN JAGUARE, payee: Leroy Merlin, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: -0.20 } 
+{ date: 15/01/2022, originalDate: 15/01/2022, offset: null, memo: DECATHLON, payee: Decathlon, category: C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla, amount: -0.02 } 
+{ date: 19/01/2022, originalDate: 19/01/2022, offset: null, memo: PAG*DepositoDe, payee: , category: , amount: -0.01 } 
+{ date: 02/02/2022, originalDate: 02/02/2022, offset: null, memo: RAPPI*RAPPI BRASIL, payee: , category: , amount: 93.92 } 
+{ date: 03/02/2022, originalDate: 03/02/2022, offset: null, memo: CJTJ DELIVERY, payee: , category: , amount: 100.10 } 
+{ date: 03/02/2022, originalDate: 03/12/2021, offset: 3, memo: ZAPALLA           03/03, payee: Lojas, category: E1. Extraordinarias (Ongoing):Presentes, amount: 139.68 } 
+{ date: 04/02/2022, originalDate: 04/02/2022, offset: null, memo: PADARIA KING BREAD LT, payee: Padaria, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 43.69 } 
+{ date: 04/02/2022, originalDate: 04/02/2022, offset: null, memo: IFD*ALICE PESSOA BENED, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 49.90 } 
+{ date: 04/02/2022, originalDate: 04/09/2021, offset: 6, memo: PAYPAL *EVENTIMBRA06/06, payee: Ingresso, category: C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao, amount: 660.00 } 
+{ date: 05/02/2022, originalDate: 05/02/2022, offset: null, memo: FABIO MORANGO, payee: , category: , amount: 61.00 } 
+{ date: 06/02/2022, originalDate: 06/02/2022, offset: null, memo: PEIXARIA SAO FRANCISCO, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 133.94 } 
+{ date: 06/02/2022, originalDate: 06/01/2022, offset: 2, memo: DROGARIA SAO PAULO02/03, payee: Drogaria, category: B1. Alimentacao-Drogaria-Vet:Drogaria, amount: 79.22 } 
+{ date: 06/02/2022, originalDate: 06/11/2021, offset: 4, memo: VIVARA XEL        04/05, payee: Vivara, category: E1. Extraordinarias (Ongoing):Presentes, amount: 108.00 } 
+{ date: 07/02/2022, originalDate: 07/02/2022, offset: null, memo: PANIFICADORA PARQUE CO, payee: Padaria, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 28.26 } 
+{ date: 07/02/2022, originalDate: 07/02/2022, offset: null, memo: S4 ADMINISTRACAO DE PO, payee: , category: , amount: 263.98 } 
+{ date: 07/02/2022, originalDate: 07/02/2022, offset: null, memo: CARREFOUR ECJ, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 569.30 } 
+{ date: 08/02/2022, originalDate: 08/12/2021, offset: 3, memo: LEROY JAGUARE     03/03, payee: Leroy Merlin, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 109.94 } 
+{ date: 08/02/2022, originalDate: 08/01/2022, offset: 2, memo: LEROY MERLIN JAGUA02/06, payee: Leroy Merlin, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 102.69 } 
+{ date: 08/02/2022, originalDate: 08/01/2022, offset: 2, memo: MOBLY VILLA LOBOS 02/02, payee: Lojas, category: C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla, amount: 61.48 } 
+{ date: 09/02/2022, originalDate: 09/02/2022, offset: null, memo: MASSAS RICCI, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 99.00 } 
+{ date: 09/02/2022, originalDate: 09/02/2022, offset: null, memo: BELLA SAUIPE II, payee: , category: , amount: 11.30 } 
+{ date: 09/02/2022, originalDate: 09/02/2022, offset: null, memo: CJTJ DELIVERY, payee: , category: , amount: 91.52 } 
+{ date: 09/02/2022, originalDate: 09/02/2022, offset: null, memo: CREDITO PROG DE PONTOS, payee: , category: , amount: -960.00 } 
+{ date: 09/02/2022, originalDate: 09/04/2021, offset: 11, memo: SERASA            11/12, payee: Outros, category: B2. Educacao (Mensal):Livros-Material Escolar, amount: 10.54 } 
+{ date: 09/02/2022, originalDate: 09/02/2022, offset: null, memo: 2022.040.096756.0000, payee: , category: , amount: 902.00 } 
+{ date: 10/02/2022, originalDate: 10/02/2022, offset: null, memo: PADARIA KING BREAD LTD, payee: Padaria, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 17.65 } 
+{ date: 10/02/2022, originalDate: 10/02/2022, offset: null, memo: C C RAMOS CALDO DE CA, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 9.00 } 
+{ date: 10/02/2022, originalDate: 10/02/2022, offset: null, memo: PAG*MariaLuciaTadeuMo, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 18.00 } 
+{ date: 10/02/2022, originalDate: 10/02/2022, offset: null, memo: SODIE DOCES VL LAGEADO, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 54.26 } 
+{ date: 10/02/2022, originalDate: 10/02/2022, offset: null, memo: IFD*ALICE PESSOA BENED, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 89.90 } 
+{ date: 10/02/2022, originalDate: 10/09/2021, offset: 6, memo: LIVRO FACIL       06/10, payee: Livro Facil, category: B2. Educacao (Mensal):Livros-Material Escolar, amount: 128.91 } 
+{ date: 11/02/2022, originalDate: 11/11/2021, offset: 4, memo: DROGARIA SAO PAULO04/12, payee: Drogaria, category: B1. Alimentacao-Drogaria-Vet:Drogaria, amount: 89.63 } 
+{ date: 11/02/2022, originalDate: 11/02/2022, offset: null, memo: NEW VISION TECNOLOGIA, payee: , category: , amount: 40.00 } 
+{ date: 11/02/2022, originalDate: 11/02/2022, offset: null, memo: PAG*BoutiqueDasCapas, payee: , category: , amount: 20.00 } 
+{ date: 11/02/2022, originalDate: 11/02/2022, offset: null, memo: PAG*SergonLed, payee: , category: , amount: 61.10 } 
+{ date: 11/02/2022, originalDate: 11/02/2022, offset: null, memo: PAG*BarLeo, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 135.77 } 
+{ date: 11/02/2022, originalDate: 11/02/2022, offset: null, memo: ESTAPAR RIO BRANCO, payee: Estapar, category: E1. Extraordinarias (Ongoing):Taxi-Estacionamento, amount: 24.50 } 
+{ date: 11/02/2022, originalDate: 11/02/2022, offset: null, memo: BAR E LANCHES 300 LTD, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 21.80 } 
+{ date: 11/02/2022, originalDate: 11/02/2022, offset: null, memo: MULTICOMERCIAL, payee: Lojas, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 26.50 } 
+{ date: 11/02/2022, originalDate: 11/02/2022, offset: null, memo: KEBAB DO GREGO, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 83.00 } 
+{ date: 12/02/2022, originalDate: 12/11/2021, offset: 4, memo: VIVARA SPM        04/08, payee: Vivara, category: E1. Extraordinarias (Ongoing):Presentes, amount: 86.25 } 
+{ date: 12/02/2022, originalDate: 12/02/2022, offset: null, memo: OBA HORTIFRUT, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 525.22 } 
+{ date: 12/02/2022, originalDate: 12/02/2022, offset: 1, memo: DROGARIA SAO PAULO01/03, payee: Drogaria, category: B1. Alimentacao-Drogaria-Vet:Drogaria, amount: 267.14 } 
+{ date: 12/02/2022, originalDate: 12/02/2022, offset: null, memo: MULTI CENTER PAPELARIA, payee: Outros, category: B2. Educacao (Mensal):Livros-Material Escolar, amount: 86.70 } 
+{ date: 12/02/2022, originalDate: 12/02/2022, offset: null, memo: MINI EXTRA 5084 R C A, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 46.36 } 
+{ date: 12/02/2022, originalDate: 12/02/2022, offset: null, memo: PAO DE ACUCAR 1207 PRA, payee: Pao de Açucar, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 94.65 } 
+{ date: 14/02/2022, originalDate: 14/11/2021, offset: 4, memo: CALZEDONIA BRASIL 04/06, payee: Calzedonia, category: C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla, amount: 131.26 } 
+{ date: 14/02/2022, originalDate: 14/11/2021, offset: 4, memo: LinxPay*HERI-CT TO04/05, payee: , category: , amount: 98.00 } 
+{ date: 14/02/2022, originalDate: 14/11/2021, offset: 4, memo: THE BODY SHO-CT O 04/06, payee: , category: , amount: 71.33 } 
+{ date: 15/02/2022, originalDate: 15/01/2022, offset: 2, memo: DECATHLON         02/03, payee: Decathlon, category: C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla, amount: 55.12 } 
+{ date: 15/02/2022, originalDate: 15/02/2022, offset: null, memo: POSTO 2766 RAPOSO TAV, payee: , category: , amount: 265.00 } 
+{ date: 15/02/2022, originalDate: 15/02/2022, offset: null, memo: IFD*NOVA SUSHI BUTANTA, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 88.69 } 
+{ date: 16/02/2022, originalDate: 16/02/2022, offset: null, memo: IFD*MANAGERALL RESTAUR, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 94.99 } 
+{ date: 17/02/2022, originalDate: 17/01/2022, offset: 2, memo: MULTI CENTER PAPEL02/05, payee: Outros, category: B2. Educacao (Mensal):Livros-Material Escolar, amount: 95.24 } 
+{ date: 17/02/2022, originalDate: 17/10/2021, offset: 5, memo: CALZEDONIA BRASIL 05/06, payee: Calzedonia, category: C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla, amount: 81.45 } 
+{ date: 17/02/2022, originalDate: 17/10/2021, offset: 5, memo: THE BODY SHOP SPO 05/06, payee: Lojas, category: E1. Extraordinarias (Ongoing):Presentes, amount: 88.02 } 
+{ date: 17/02/2022, originalDate: 17/02/2022, offset: null, memo: PANIFICADORA PARQUE CO, payee: Padaria, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 18.33 } 
+{ date: 17/02/2022, originalDate: 17/02/2022, offset: null, memo: EMP NATURALLE CANASTRA, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 129.90 } 
+{ date: 17/02/2022, originalDate: 17/02/2022, offset: 1, memo: DROGARIA SAO PAULO01/03, payee: Drogaria, category: B1. Alimentacao-Drogaria-Vet:Drogaria, amount: 68.09 } 
+{ date: 18/02/2022, originalDate: 18/12/2021, offset: 3, memo: FUNDART           03/06, payee: , category: , amount: 84.96 } 
+{ date: 19/02/2022, originalDate: 19/01/2022, offset: 2, memo: PAG*DepositoDe    02/02, payee: , category: , amount: 64.16 } 
+{ date: 19/02/2022, originalDate: 19/02/2022, offset: null, memo: PEG PESE, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 689.25 } 
+{ date: 20/02/2022, originalDate: 20/02/2022, offset: null, memo: MARCIA IRENE PIERAMI, payee: , category: , amount: 150.00 } 
+{ date: 20/02/2022, originalDate: 20/02/2022, offset: null, memo: AUTO POSTO TECFAC LTD, payee: Combustível, category: F. Automoveis:Combustivel-Lavagem-Oleo, amount: 12.00 } 
+{ date: 20/02/2022, originalDate: 20/02/2022, offset: null, memo: BEEF SMART LTDA, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 189.91 } 
+{ date: 20/02/2022, originalDate: 20/02/2022, offset: null, memo: CONF LINDO SONHO, payee: , category: , amount: 95.39 } 
+{ date: 21/02/2022, originalDate: 21/10/2021, offset: 5, memo: GOL TRANSP A*AHMFI05/05, payee: Gol Linhas Aereas, category: D. Viagens:Tkt-Hotel-Auto, amount: 1.07 } 
+{ date: 22/02/2022, originalDate: 22/12/2021, offset: 3, memo: PAG*TecnoM        03/06, payee: , category: , amount: 100.00 } 
+{ date: 22/02/2022, originalDate: 22/02/2022, offset: null, memo: PADARIA KING BREAD LTD, payee: Padaria, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 43.78 } 
+{ date: 23/02/2022, originalDate: 23/02/2022, offset: null, memo: PRACA DIVINO, payee: , category: , amount: 24.40 } 
+{ date: 23/02/2022, originalDate: 23/02/2022, offset: null, memo: ifood  *IFOODCLUBE, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 35.89 } 
+{ date: 23/02/2022, originalDate: 23/02/2022, offset: null, memo: IFD*GRACIELA CARDOSO D, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 126.60 } 
+{ date: 24/02/2022, originalDate: 24/02/2022, offset: null, memo: CARREFOUR ECJ, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 324.31 } 
+{ date: 24/02/2022, originalDate: 24/02/2022, offset: null, memo: CARREFOUR ECJ, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: -61.56 } 
+{ date: 24/02/2022, originalDate: 24/02/2022, offset: null, memo: IFD*ALICE PESSOA BENED, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 59.90 } 
+{ date: 25/02/2022, originalDate: 25/01/2022, offset: 2, memo: PAG*Saraiva58     02/02, payee: , category: , amount: 62.35 } 
+{ date: 26/02/2022, originalDate: 26/02/2022, offset: null, memo: IFD*Kohala Poke  Bowls, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 108.00 } 
+{ date: 27/02/2022, originalDate: 27/02/2022, offset: null, memo: ETIENNE ROTISSERIA E B, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 26.48 } 
+{ date: 28/02/2022, originalDate: 28/01/2022, offset: 2, memo: PAG*Jaguare       02/02, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 118.00 } 
+{ date: 28/02/2022, originalDate: 28/09/2021, offset: 6, memo: TELHA NORTE       06/08, payee: Telhanorte, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 195.79 } 
+{ date: 28/02/2022, originalDate: 28/01/2022, offset: 2, memo: CLINICA ODONT RODO02/03, payee: , category: , amount: 120.00 } 
+{ date: 28/02/2022, originalDate: 30/11/2021, offset: 4, memo: TELHA NORTE       04/08, payee: Telhanorte, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 104.71 } 
+{ date: 28/02/2022, originalDate: 28/12/2021, offset: 3, memo: EXTRA HIPER 1357 J03/04, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 108.55 } 
+{ date: 28/02/2022, originalDate: 30/12/2021, offset: 3, memo: LEROY JAGUARE     03/06, payee: Leroy Merlin, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 117.20 } 
+{ date: 28/02/2022, originalDate: 28/02/2022, offset: null, memo: SISTEMA KASTRO-PAK, payee: , category: , amount: 9.00 } 
+{ date: 28/02/2022, originalDate: 28/02/2022, offset: null, memo: PAG*AstorVilaMadalena, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 194.36 } 
+{ date: 28/02/2022, originalDate: 28/02/2022, offset: null, memo: LUNEVES, payee: , category: , amount: 56.24 } 
+{ date: 28/02/2022, originalDate: 28/02/2022, offset: null, memo: LUNEVES, payee: , category: , amount: 48.70 } 
+{ date: 01/03/2022, originalDate: 01/03/2022, offset: null, memo: IFD*MARIA DE FATIMA BA, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 21.89 } 
+{ date: 01/03/2022, originalDate: 01/03/2022, offset: null, memo: IFD*GUSTAVO DA SILVA S, payee: Restaurantes, category: C1. Lazer-Estetica-Vestuario-Celular:Restaurantes, amount: 45.99 } 
+{ date: 06/03/2022, originalDate: 06/11/2021, offset: 5, memo: VIVARA XEL        05/05, payee: Vivara, category: E1. Extraordinarias (Ongoing):Presentes, amount: 108.00 } 
+{ date: 06/03/2022, originalDate: 06/01/2022, offset: 3, memo: DROGARIA SAO PAULO03/03, payee: Drogaria, category: B1. Alimentacao-Drogaria-Vet:Drogaria, amount: 79.22 } 
+{ date: 08/03/2022, originalDate: 08/01/2022, offset: 3, memo: LEROY MERLIN JAGUA03/06, payee: Leroy Merlin, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 102.69 } 
+{ date: 09/03/2022, originalDate: 09/04/2021, offset: 12, memo: SERASA            12/12, payee: Outros, category: B2. Educacao (Mensal):Livros-Material Escolar, amount: 10.54 } 
+{ date: 10/03/2022, originalDate: 10/09/2021, offset: 7, memo: LIVRO FACIL       07/10, payee: Livro Facil, category: B2. Educacao (Mensal):Livros-Material Escolar, amount: 128.91 } 
+{ date: 11/03/2022, originalDate: 11/11/2021, offset: 5, memo: DROGARIA SAO PAULO05/12, payee: Drogaria, category: B1. Alimentacao-Drogaria-Vet:Drogaria, amount: 89.63 } 
+{ date: 12/03/2022, originalDate: 12/11/2021, offset: 5, memo: VIVARA SPM        05/08, payee: Vivara, category: E1. Extraordinarias (Ongoing):Presentes, amount: 86.25 } 
+{ date: 12/03/2022, originalDate: 12/02/2022, offset: 2, memo: DROGARIA SAO PAULO02/03, payee: Drogaria, category: B1. Alimentacao-Drogaria-Vet:Drogaria, amount: 267.14 } 
+{ date: 14/03/2022, originalDate: 14/11/2021, offset: 5, memo: CALZEDONIA BRASIL 05/06, payee: Calzedonia, category: C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla, amount: 131.26 } 
+{ date: 14/03/2022, originalDate: 14/11/2021, offset: 5, memo: LinxPay*HERI-CT TO05/05, payee: , category: , amount: 98.00 } 
+{ date: 14/03/2022, originalDate: 14/11/2021, offset: 5, memo: THE BODY SHO-CT O 05/06, payee: , category: , amount: 71.33 } 
+{ date: 15/03/2022, originalDate: 15/01/2022, offset: 3, memo: DECATHLON         03/03, payee: Decathlon, category: C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla, amount: 55.12 } 
+{ date: 17/03/2022, originalDate: 17/10/2021, offset: 6, memo: CALZEDONIA BRASIL 06/06, payee: Calzedonia, category: C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla, amount: 81.45 } 
+{ date: 17/03/2022, originalDate: 17/10/2021, offset: 6, memo: THE BODY SHOP SPO 06/06, payee: Lojas, category: E1. Extraordinarias (Ongoing):Presentes, amount: 88.02 } 
+{ date: 17/03/2022, originalDate: 17/01/2022, offset: 3, memo: MULTI CENTER PAPEL03/05, payee: Outros, category: B2. Educacao (Mensal):Livros-Material Escolar, amount: 95.24 } 
+{ date: 17/03/2022, originalDate: 17/02/2022, offset: 2, memo: DROGARIA SAO PAULO02/03, payee: Drogaria, category: B1. Alimentacao-Drogaria-Vet:Drogaria, amount: 68.09 } 
+{ date: 18/03/2022, originalDate: 18/12/2021, offset: 4, memo: FUNDART           04/06, payee: , category: , amount: 84.96 } 
+{ date: 22/03/2022, originalDate: 22/12/2021, offset: 4, memo: PAG*TecnoM        04/06, payee: , category: , amount: 100.00 } 
+{ date: 28/03/2022, originalDate: 28/09/2021, offset: 7, memo: TELHA NORTE       07/08, payee: Telhanorte, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 195.79 } 
+{ date: 28/03/2022, originalDate: 28/12/2021, offset: 4, memo: EXTRA HIPER 1357 J04/04, payee: Supermercado, category: B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos, amount: 108.55 } 
+{ date: 28/03/2022, originalDate: 28/01/2022, offset: 3, memo: CLINICA ODONT RODO03/03, payee: , category: , amount: 120.00 } 
+{ date: 30/03/2022, originalDate: 30/11/2021, offset: 5, memo: TELHA NORTE       05/08, payee: Telhanorte, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 104.71 } 
+{ date: 30/03/2022, originalDate: 30/12/2021, offset: 4, memo: LEROY JAGUARE     04/06, payee: Leroy Merlin, category: E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos, amount: 117.20 } 
+2022-03-03T03:00:00.000Z
+9419.31
+11640.36

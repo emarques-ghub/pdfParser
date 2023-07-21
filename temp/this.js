@@ -1,4 +1,5 @@
 var nome = "A confusão";  
+
 var filme = {  
     nome:"O Iluminado",
     ano:1980,
@@ -14,3 +15,4 @@ var iniciar = filme.iniciar;
 
 filme.iniciar(); //Caso 1: O Iluminado está começando: REDRUM!  
 iniciar(); //Caso 2: A confusão está começando!
+
