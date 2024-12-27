@@ -1,0 +1,13 @@
+version: '3' # Specifies the version of the Docker Compose file format.
+
+services: 
+  apache-srv: # Name of the service. Can be used for logging or networking.
+    image: httpd:2.4 # Specifies the Apache HTTP Server image version 2.4 from Docker Hub.
+    volumes: 
+      # Maps the current directory on the host machine (.) to the Apache server's root directory in the container.
+      # This allows you to serve and edit web files directly from your local machine.
+      - .:/usr/local/apache2/htdocs/
+    ports: 
+      # Maps port 8080 on the host machine to port 80 in the container.
+      # This allows access to the Apache server via http://localhost:8080.
+      - 8080:80
