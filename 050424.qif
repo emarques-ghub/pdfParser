@@ -1,0 +1,1525 @@
+!Type:Bank
+N24020700
+D07/02/24
+T0.04
+PAjustes
+LB. Outras Receitas:Ajustes
+MSAO BENTO MOVEIS
+^
+N24021200
+D12/02/24
+T0.04
+PAjustes
+LB. Outras Receitas:Ajustes
+M1178DROGASIL
+^
+N24030200
+D02/03/24
+T0.01
+PAjustes
+LB. Outras Receitas:Ajustes
+MDROGARIA SAO PAULO SA
+^
+N24030500
+D05/03/24
+T-62.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*OSASCOMAU
+^
+N24030501
+D05/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24030502
+D05/03/24
+T-5.50
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24030503
+D05/03/24
+T-6.50
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24030504
+D05/03/24
+T-10.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24030505
+D05/03/24
+T-24.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24030506
+D05/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24030507
+D05/03/24
+T-1,400.00
+MARTHRON CLINICA DE REU
+^
+N24030600
+D06/03/24
+T-4.40
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24030601
+D06/03/24
+T-5.70
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24030602
+D06/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24030603
+D06/03/24
+T-15.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24030700
+D07/03/24
+T-76.68
+MSAO BENTO MOVEIS  02/03
+^
+N24030701
+D07/03/24
+T-253.69
+PCombustivel
+LF. Automoveis:Combustivel-Lavagem-Oleo
+MAUTO POSTO QUINTAL DE
+^
+N24030702
+D07/03/24
+T-7.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA GOUVEIA PEREIR
+^
+N24030703
+D07/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24030704
+D07/03/24
+T-5.50
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24030705
+D07/03/24
+T-27.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24030706
+D07/03/24
+T-27.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24030707
+D07/03/24
+T-10.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24030800
+D08/03/24
+T-44.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MPAG*WitchBeer
+^
+N24030801
+D08/03/24
+T-82.59
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*MADERO IN
+^
+N24030802
+D08/03/24
+T-133.00
+MO REI DO KEBAB
+^
+N24030803
+D08/03/24
+T-15.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA GOUVEIA PEREIR
+^
+N24030804
+D08/03/24
+T-6.50
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24030805
+D08/03/24
+T-10.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24030806
+D08/03/24
+T-137.90
+PFrutaria Colinas
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MAIRTON VENTURA FRUTAR
+^
+N24030900
+D09/03/24
+T-40.80
+MGALPAO
+^
+N24030901
+D09/03/24
+T-445.22
+MPAG*CotoxoPizzaBar
+^
+N24030902
+D09/03/24
+T-85.00
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPAG*Jaguare       03/04
+^
+N24030903
+D09/03/24
+T-16.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA GOUVEIA PEREIR
+^
+N24030904
+D09/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24031000
+D10/03/24
+T-47.92
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPAG*Jaguare
+^
+N24031001
+D10/03/24
+T-662.64
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MFUJIYAMA SUSHI B
+^
+N24031002
+D10/03/24
+T-335.49
+MMERCPAGO    *TRILH12/12
+^
+N24031100
+D11/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24031101
+D11/03/24
+T-10.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031102
+D11/03/24
+T-266.50
+MSALLUSC*SALLUSCARE01/06
+^
+N24031200
+D12/03/24
+T-30.00
+MPAG*BluGestaoE
+^
+N24031201
+D12/03/24
+T-29.95
+MBacio di Latte-LJ0082
+^
+N24031202
+D12/03/24
+T-111.68
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MCARREFOUR SPB 30
+^
+N24031203
+D12/03/24
+T-37.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MRESTAURANTE SERAFIM AB
+^
+N24031204
+D12/03/24
+T-109.71
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+M1178DROGASIL      02/03
+^
+N24031205
+D12/03/24
+T-5.50
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24031206
+D12/03/24
+T-9.90
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24031207
+D12/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24031208
+D12/03/24
+T-11.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031209
+D12/03/24
+T-24.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031210
+D12/03/24
+T-196.94
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO03/06
+^
+N24031211
+D12/03/24
+T-72.69
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*ARCOS DOU
+^
+N24031300
+D13/03/24
+T-162.29
+PLeroy Merlin
+LE1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos
+MLEROY MERLIN JAGUA04/06
+^
+N24031301
+D13/03/24
+T-111.90
+PPet Center
+LB1. Alimentacao-Drogaria-Vet:Pet Center
+MKANZEN PET CENTER
+^
+N24031302
+D13/03/24
+T-139.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*J F SEU J
+^
+N24031303
+D13/03/24
+T-30.00
+MCARLOS DOS SANTOS LIM
+^
+N24031304
+D13/03/24
+T-74.99
+PArezzo
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MAREZZO SHOPPING VI04/04
+^
+N24031305
+D13/03/24
+T-258.35
+MVILLA LOBOS       04/06
+^
+N24031306
+D13/03/24
+T-19.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031307
+D13/03/24
+T-24.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031308
+D13/03/24
+T-14.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031400
+D14/03/24
+T-90.70
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MST ETIENNE CITY PADARI
+^
+N24031401
+D14/03/24
+T-119.95
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+M313RAIA
+^
+N24031402
+D14/03/24
+T-106.85
+MVILLA LOBOS       06/06
+^
+N24031403
+D14/03/24
+T-172.75
+PLoja Roupas
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MCASA DAS CUECAS - 04/06
+^
+N24031404
+D14/03/24
+T-159.75
+MNCOPAY *E241 - SHO04/06
+^
+N24031405
+D14/03/24
+T-106.16
+PLoja Roupas
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe
+MBAYARD ESPORTES   04/08
+^
+N24031406
+D14/03/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031407
+D14/03/24
+T-28.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031408
+D14/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031409
+D14/03/24
+T-71.79
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*OUTBACK S
+^
+N24031410
+D14/03/24
+T-64.40
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MOFNER
+^
+N24031500
+D15/03/24
+T-68.80
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MMASSAS RICCI
+^
+N24031501
+D15/03/24
+T-82.69
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*PIMENTA V
+^
+N24031502
+D15/03/24
+T-11.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA GOUVEIA PEREIR
+^
+N24031503
+D15/03/24
+T-52.88
+PLoungerie
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MLOUNGERIE         05/05
+^
+N24031504
+D15/03/24
+T-116.50
+MSwarovski Cristais04/06
+^
+N24031505
+D15/03/24
+T-10.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031506
+D15/03/24
+T-6.99
+PEstapar
+LE1. Extraordinarias (Ongoing):Taxi-Estacionamento
+MHUBEES
+^
+N24031600
+D16/03/24
+T-3,204.00
+MESTACAO PACAEMBU  07/12
+^
+N24031601
+D16/03/24
+T-11.00
+MPAG*Fabio
+^
+N24031602
+D16/03/24
+T-370.65
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MSI SENOR PINHEIROS
+^
+N24031603
+D16/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA GOUVEIA PEREIR
+^
+N24031604
+D16/03/24
+T-24.00
+MPAG*KirstenDalmoro
+^
+N24031605
+D16/03/24
+T-33.10
+PPadaria
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MCARINHO NA ALMA
+^
+N24031606
+D16/03/24
+T-103.20
+PPadaria
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MCARINHO NA ALMA
+^
+N24031607
+D16/03/24
+T-127.98
+MVILLA LOBOS       01/10
+^
+N24031608
+D16/03/24
+T-218.77
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO01/06
+^
+N24031700
+D17/03/24
+T-150.90
+MDUTY PALD RH      02/02
+^
+N24031701
+D17/03/24
+T-839.64
+MPAG*JetaComercioDe
+^
+N24031800
+D18/03/24
+T-114.97
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*RESTAURAN
+^
+N24031801
+D18/03/24
+T-7.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA GOUVEIA PEREIR
+^
+N24031802
+D18/03/24
+T-5.50
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24031803
+D18/03/24
+T-6.99
+PEstapar
+LE1. Extraordinarias (Ongoing):Taxi-Estacionamento
+MHUBEES
+^
+N24031804
+D18/03/24
+T-935.36
+PTAM Linhas Aereas
+LD. Viagens:Tkt-Hotel-Auto
+MLATAM SITE        03/04
+^
+N24031900
+D19/03/24
+T-56.30
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MST ETIENNE CITY PADARI
+^
+N24031901
+D19/03/24
+T-157.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MTORINO COMERCIO DE ALI
+^
+N24031902
+D19/03/24
+T-14.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA GOUVEIA PEREIR
+^
+N24031903
+D19/03/24
+T-5.80
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24031904
+D19/03/24
+T-78.16
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO04/06
+^
+N24031905
+D19/03/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031906
+D19/03/24
+T-24.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031907
+D19/03/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031908
+D19/03/24
+T-12.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24031909
+D19/03/24
+T-91.79
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*OUTBACK S
+^
+N24031910
+D19/03/24
+T-226.79
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MKFE RASCAL
+^
+N24032000
+D20/03/24
+T-230.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*J F SEU J
+^
+N24032001
+D20/03/24
+T-24.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032002
+D20/03/24
+T-506.00
+MFEVER* STRANGER THINGS
+^
+N24032100
+D21/03/24
+T-118.50
+MPAG*SueliSimonedaS02/02
+^
+N24032101
+D21/03/24
+T-115.40
+PPet Center
+LB1. Alimentacao-Drogaria-Vet:Pet Center
+MCOBASI OSASCO
+^
+N24032102
+D21/03/24
+T-57.02
+MMERCANTIL RED
+^
+N24032103
+D21/03/24
+T-1,042.27
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MSAMS
+^
+N24032104
+D21/03/24
+T-70.00
+PEstetica
+LC1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem
+MC BARBERSHOP TATTOO
+^
+N24032105
+D21/03/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032106
+D21/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24032107
+D21/03/24
+T-27.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032108
+D21/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032109
+D21/03/24
+T-83.62
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MTORINO COMERCIO DE ALI
+^
+N24032200
+D22/03/24
+T-11.50
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032201
+D22/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24032202
+D22/03/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032203
+D22/03/24
+T-26.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032300
+D23/03/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032301
+D23/03/24
+T-5.80
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24032302
+D23/03/24
+T-59.00
+PEstetica
+LC1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem
+MPRO BEAUTY ASSOCIADOS
+^
+N24032303
+D23/03/24
+T-69.83
+PEstetica
+LC1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem
+MFC ESTETICA EIRELI01/06
+^
+N24032304
+D23/03/24
+T-116.58
+MPL MODAS VILA LOBO01/02
+^
+N24032400
+D24/03/24
+T-52.42
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO06/06
+^
+N24032401
+D24/03/24
+T-83.00
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPAG*Jaguare       02/04
+^
+N24032402
+D24/03/24
+T-46.90
+MBacio di Latte-LJ0017
+^
+N24032403
+D24/03/24
+T-386.10
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MALMANARA RESTAURANTES
+^
+N24032404
+D24/03/24
+T-40.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MYOGOBERRY SHOPPING ELD
+^
+N24032500
+D25/03/24
+T-104.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*MANAGERAL
+^
+N24032501
+D25/03/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032502
+D25/03/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032503
+D25/03/24
+T-14.78
+MOXXO VILA MARIANA
+^
+N24032504
+D25/03/24
+T-6.50
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24032600
+D26/03/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032601
+D26/03/24
+T-30.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032602
+D26/03/24
+T-140.13
+MIngresso.com
+^
+N24032603
+D26/03/24
+T-90.31
+MMLP         *NETSH04/06
+^
+N24032604
+D26/03/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032605
+D26/03/24
+T-24.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032606
+D26/03/24
+T-8.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032607
+D26/03/24
+T-12.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032608
+D26/03/24
+T-57.88
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*ZAMP SA
+^
+N24032700
+D27/03/24
+T-112.84
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MSWIFT
+^
+N24032701
+D27/03/24
+T-126.96
+PFrutaria Colinas
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MAIRTON VENTURA FRUTARI
+^
+N24032702
+D27/03/24
+T-206.50
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MNATURALLE
+^
+N24032703
+D27/03/24
+T-98.38
+MPAG*ImperatrizCarnes
+^
+N24032704
+D27/03/24
+T-60.00
+PPet Center
+LB1. Alimentacao-Drogaria-Vet:Pet Center
+MKANZEN PET CENTER
+^
+N24032705
+D27/03/24
+T-6.96
+PPadaria
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPANIFICADORA PARQUE CO
+^
+N24032706
+D27/03/24
+T-83.66
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO S A
+^
+N24032707
+D27/03/24
+T-68.93
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MLANCHONETE DA CIDADE L
+^
+N24032708
+D27/03/24
+T-165.06
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO06/06
+^
+N24032709
+D27/03/24
+T-128.68
+PLoja Roupas
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MPAG*JONINACOMERCIO03/03
+^
+N24032710
+D27/03/24
+T-198.50
+PZara
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MZARA VILA LOBOS   03/03
+^
+N24032711
+D27/03/24
+T-6.99
+PEstapar
+LE1. Extraordinarias (Ongoing):Taxi-Estacionamento
+MHUBEES
+^
+N24032712
+D27/03/24
+T-12.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24032800
+D28/03/24
+T-113.26
+PFleury
+LE2. Extraordinarias (One Time):Medicos-Clinicas-Exames
+MFLEURY VILLA LOBOS01/05
+^
+N24032801
+D28/03/24
+T-115.50
+PPadaria
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MCARINHO NA ALMA
+^
+N24032802
+D28/03/24
+T-53.60
+PPadaria
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MCARINHO NA ALMA
+^
+N24032803
+D28/03/24
+T-92.79
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*OUTBACK S
+^
+N24032900
+D29/03/24
+T-212.71
+PLeroy Merlin
+LE1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos
+MLEROY MERLIN JAGUA04/06
+^
+N24032901
+D29/03/24
+T-106.47
+MPIRUETA COMERCIAL 03/03
+^
+N24032902
+D29/03/24
+T-105.00
+MCINEPOLIS IGUATEMI JK
+^
+N24032903
+D29/03/24
+T-69.85
+MBacio di Latte-LJ0003
+^
+N24032904
+D29/03/24
+T-145.53
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MRAIA106
+^
+N24033000
+D30/03/24
+T-101.76
+PCopeli Matl Eletrico
+LE1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos
+MELETRICA COPELI   01/06
+^
+N24033001
+D30/03/24
+T-50.00
+PEstapar
+LE1. Extraordinarias (Ongoing):Taxi-Estacionamento
+MCONECTCAR   *Conectcar
+^
+N24033100
+D31/03/24
+T-63.75
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPAG*Jaguare       01/04
+^
+N24033101
+D31/03/24
+T-133.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*CARLOS EM
+^
+N24033102
+D31/03/24
+T-124.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*JMLP REST
+^
+N24033103
+D31/03/24
+T124.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*JMLP REST
+^
+N24033104
+D31/03/24
+T-8.08
+POutros
+LE1. Extraordinarias (Ongoing):Assinaturas-Licencas
+MPG *RQX (CORPO SUB03/12
+^
+N24033105
+D31/03/24
+T-24.75
+POutros
+LE1. Extraordinarias (Ongoing):Assinaturas-Licencas
+MPG *RQX (CORPO SUB03/12
+^
+N24040100
+D01/04/24
+T-79.50
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPAG*Jaguare       03/04
+^
+N24040101
+D01/04/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040102
+D01/04/24
+T-8.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040103
+D01/04/24
+T-8.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040104
+D01/04/24
+T-5.50
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24040105
+D01/04/24
+T-165.00
+MCOLEGIO POLIEDRO
+^
+N24040106
+D01/04/24
+T-117.82
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO05/06
+^
+N24040200
+D02/04/24
+T-8.49
+MOXXO VILA MARIANA
+^
+N24040201
+D02/04/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040202
+D02/04/24
+T-89.81
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO02/02
+^
+N24040203
+D02/04/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040204
+D02/04/24
+T-24.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040205
+D02/04/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040300
+D03/04/24
+T-138.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+Mifood  *IFD*MADERO IN
+^
+N24040301
+D03/04/24
+T-6.99
+PEstapar
+LE1. Extraordinarias (Ongoing):Taxi-Estacionamento
+MHUBEES
+^
+N24040302
+D03/04/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040400
+D04/04/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040401
+D04/04/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24040402
+D04/04/24
+T-6.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MGRAN  COFFEE
+^
+N24040403
+D04/04/24
+T-139.70
+PEstetica
+LC1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem
+MSUMMIT ESTETICA LT06/12
+^
+N24040404
+D04/04/24
+T-27.99
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040405
+D04/04/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N24040406
+D04/04/24
+T-5.00
+PRestaurantes
+LC1. Lazer-Estetica-Vestuario-Celular:Restaurantes
+MCANTINA NOVA GERACAO
+^
+N240407xx
+D07/04/24
+T-76.68
+MSAO BENTO MOVEIS  03/03
+^
+N240409xx
+D09/04/24
+T-85.00
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPAG*Jaguare       04/04
+^
+N240411xx
+D11/04/24
+T-266.50
+MSALLUSC*SALLUSCARE02/06
+^
+N240412xx
+D12/04/24
+T-196.94
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO04/06
+^
+N240412xx
+D12/04/24
+T-109.71
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+M1178DROGASIL      03/03
+^
+N240413xx
+D13/04/24
+T-162.29
+PLeroy Merlin
+LE1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos
+MLEROY MERLIN JAGUA05/06
+^
+N240413xx
+D13/04/24
+T-258.35
+MVILLA LOBOS       05/06
+^
+N240414xx
+D14/04/24
+T-172.75
+PLoja Roupas
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla
+MCASA DAS CUECAS - 05/06
+^
+N240414xx
+D14/04/24
+T-159.75
+MNCOPAY *E241 - SHO05/06
+^
+N240414xx
+D14/04/24
+T-106.16
+PLoja Roupas
+LC1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe
+MBAYARD ESPORTES   05/08
+^
+N240415xx
+D15/04/24
+T-116.50
+MSwarovski Cristais05/06
+^
+N240416xx
+D16/04/24
+T-3,204.00
+MESTACAO PACAEMBU  08/12
+^
+N240416xx
+D16/04/24
+T-127.98
+MVILLA LOBOS       02/10
+^
+N240416xx
+D16/04/24
+T-218.77
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO02/06
+^
+N240418xx
+D18/04/24
+T-935.36
+PTAM Linhas Aereas
+LD. Viagens:Tkt-Hotel-Auto
+MLATAM SITE        04/04
+^
+N240419xx
+D19/04/24
+T-78.16
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO05/06
+^
+N240423xx
+D23/04/24
+T-69.83
+PEstetica
+LC1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem
+MFC ESTETICA EIRELI02/06
+^
+N240423xx
+D23/04/24
+T-116.58
+MPL MODAS VILA LOBO02/02
+^
+N240424xx
+D24/04/24
+T-83.00
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPAG*Jaguare       03/04
+^
+N240426xx
+D26/04/24
+T-90.31
+MMLP         *NETSH05/06
+^
+N240428xx
+D28/04/24
+T-113.26
+PFleury
+LE2. Extraordinarias (One Time):Medicos-Clinicas-Exames
+MFLEURY VILLA LOBOS02/05
+^
+N240429xx
+D29/04/24
+T-212.71
+PLeroy Merlin
+LE1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos
+MLEROY MERLIN JAGUA05/06
+^
+N240430xx
+D30/04/24
+T-8.08
+POutros
+LE1. Extraordinarias (Ongoing):Assinaturas-Licencas
+MPG *RQX (CORPO SUB04/12
+^
+N240430xx
+D30/04/24
+T-24.75
+POutros
+LE1. Extraordinarias (Ongoing):Assinaturas-Licencas
+MPG *RQX (CORPO SUB04/12
+^
+N240430xx
+D30/04/24
+T-101.76
+PCopeli Matl Eletrico
+LE1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos
+MELETRICA COPELI   02/06
+^
+N240430xx
+D30/04/24
+T-63.75
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPAG*Jaguare       02/04
+^
+N240501xx
+D01/05/24
+T-117.82
+PDrogaria
+LB1. Alimentacao-Drogaria-Vet:Drogaria
+MDROGARIA SAO PAULO06/06
+^
+N240501xx
+D01/05/24
+T-79.50
+PSupermercado
+LB1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos
+MPAG*Jaguare       04/04
+^
+N240504xx
+D04/05/24
+T-139.70
+PEstetica
+LC1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem
+MSUMMIT ESTETICA LT07/12
+^

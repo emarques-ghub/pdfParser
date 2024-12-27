@@ -1,38 +1,192 @@
-29/12/22|22122900|TAM CALLCENTER|0,01|Ajustes|B. Outras Receitas:Ajustes|false
-23/01/23|23012300|VIVARA SSO        02/10|-42,00|Vivara|E1. Extraordinarias (Ongoing):Presentes|false
-23/01/23|23012301|PAG*Osasco        02/03|-74,00|||false
-25/01/23|23012500|HORTFRUT DO PAULINHO|-34,00|||false
-26/01/23|23012600|MLP*NETSHOES      03/04|-67,47|Loja Roupas|C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|false
-26/01/23|23012601|PAMARIS*PAPEL     01/06|-821,70|Livraria-Papelaria|B2. Educacao (Mensal):Livros-Material Escolar|false
-26/01/23|23012602|PAMARIS*PAPEL     01/06|-8,35|Livraria-Papelaria|B2. Educacao (Mensal):Livros-Material Escolar|false
-26/01/23|23012603|Amazon.com.br|-24,57|||false
-27/01/23|23012700|IMPERATRIZ CARNES OLIV|-56,28|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
-27/01/23|23012701|AIRTON VENTURA FRUTAR|-65,77|Frutaria Colinas|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
-27/01/23|23012702|Amazon.com.br|-36,16|||false
-27/01/23|23012703|Amazon.com.br|-19,26|||false
-27/01/23|23012704|Amazon-Marketplace|-49,22|||false
-29/01/23|23012900|TAM CALLCENTER    02/02|-145,02|TAM Linhas Aereas|D. Viagens:Tkt-Hotel-Auto|false
-29/01/23|23012901|PAG*Fujiyama|-361,68|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
-29/01/23|23012902|CIRCUIT PARK ESTACIONA|-15,00|Estapar|E1. Extraordinarias (Ongoing):Taxi-Estacionamento|false
-29/01/23|23012903|PANIFICADORA PARQUE CO|-22,59|Padaria|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
-29/01/23|23012904|MAURICIO MAZZONI|-77,00|||false
-30/01/23|23013000|Amazon-Marketplace|-465,11|||false
-31/01/23|23013100|PG *RQX (CORPO SUB01/12|-24,75|Outros|E1. Extraordinarias (Ongoing):Assinaturas-Licencas|false
-31/01/23|23013101|PEG PESE|-353,88|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
-02/02/23|23020200|STL LIMPEZA|-160,40|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
-03/02/23|23020300|Vin*FcEsteticaLtda|-124,80|Estetica|C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|false
-03/02/23|23020301|Vin*FcEsteticaLtda|-96,00|Estetica|C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|false
-03/02/23|23020302|LEROY MERLIN      01/03|-120,90|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|false
-03/02/23|23020303|LA BRASA|-24,00|||false
-03/02/23|23020304|WITCH BEER CERVEJARIA|-113,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
-03/02/23|23020305|PAG*ErikDaSilva|-36,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
-14/02/23|23021400|PAG*MobVillaLobos 04/05|-97,68|Loja Roupas|C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|false
-17/02/23|23021700|CLARO LJ VILLA LOBOS|-10,00|Claro Celular|C1. Lazer-Estetica-Vestuario-Celular:Celular|false
-23/02/23|230223xx|VIVARA SSO        03/10|-42,00|Vivara|E1. Extraordinarias (Ongoing):Presentes|true
-23/02/23|230223xx|PAG*Osasco        03/03|-74,00|||true
-26/02/23|230226xx|MLP*NETSHOES      04/04|-67,47|Loja Roupas|C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|true
-26/02/23|230226xx|PAMARIS*PAPEL     02/06|-821,70|Livraria-Papelaria|B2. Educacao (Mensal):Livros-Material Escolar|true
-26/02/23|230226xx|PAMARIS*PAPEL     02/06|-8,35|Livraria-Papelaria|B2. Educacao (Mensal):Livros-Material Escolar|true
-28/02/23|230228xx|PG *RQX (CORPO SUB02/12|-24,75|Outros|E1. Extraordinarias (Ongoing):Assinaturas-Licencas|true
-03/03/23|230303xx|LEROY MERLIN      02/03|-120,90|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|true
-14/03/23|230314xx|PAG*MobVillaLobos 05/05|-97,68|Loja Roupas|C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|true
+16/03/24|24031600|DROGARIA SAO PAULO 266|0,25|Ajustes|B. Outras Receitas:Ajustes|false
+23/03/24|24032300|FC ESTETICA EIRELI|0,10|Ajustes|B. Outras Receitas:Ajustes|false
+23/03/24|24032301|PL MODAS VILA LOBOS|0,01|Ajustes|B. Outras Receitas:Ajustes|false
+30/03/24|24033000|ELETRICA COPELI|0,05|Ajustes|B. Outras Receitas:Ajustes|false
+05/04/24|24040500|PAG*WitchBeer|-54,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+05/04/24|24040501|ifood  *IFD*FRANGO FR|-99,39|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+05/04/24|24040502|PORKYS BURGUER|-32,90|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+05/04/24|24040503|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+05/04/24|24040504|CANTINA NOVA GERACAO|-22,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+05/04/24|24040505|GRAN  COFFEE|-6,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+06/04/24|24040600|PAG*PortorosePizzaria|-560,48|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+06/04/24|24040601|CENTURY A PARK ESTACIO|-30,00|Estapar|E1. Extraordinarias (Ongoing):Taxi-Estacionamento|false
+06/04/24|24040602|REI DO MATE|-44,60|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+06/04/24|24040603|REI DO MATE|-26,80|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+06/04/24|24040604|LEROY MERLIN   JAG01/02|-109,54|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|false
+06/04/24|24040605|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+07/04/24|24040700|REI DO MATE|-13,90|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+07/04/24|24040701|LEROY MERLIN   JAGUARE|-31,78|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|false
+07/04/24|24040702|ifood  *IFD*OUTBACK S|-148,69|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+07/04/24|24040703|SAO BENTO MOVEIS  03/03|-76,68|||false
+08/04/24|24040800|ifood  *IFD*BEIRUTERI|-45,38|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+08/04/24|24040801|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+08/04/24|24040802|CANTINA NOVA GERACAO|-13,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+09/04/24|24040900|PAG*Jaguare       04/04|-85,00|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+09/04/24|24040901|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+09/04/24|24040902|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+09/04/24|24040903|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+09/04/24|24040904|CANTINA NOVA GERACAO|-24,99|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+09/04/24|24040905|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+09/04/24|24040906|CANTINA NOVA GERACAO|-12,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+10/04/24|24041000|IFD*PIMENTA VERDE ALIM|-101,69|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+10/04/24|24041001|IFD*PIMENTA VERDE ALIM|101,69|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+10/04/24|24041002|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+10/04/24|24041003|HUBEES|-6,99|Estapar|E1. Extraordinarias (Ongoing):Taxi-Estacionamento|false
+11/04/24|24041100|DROGARIA SAO PAULO SA|-81,99|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+11/04/24|24041101|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+11/04/24|24041102|SALLUSC*SALLUSCARE02/06|-266,50|||false
+11/04/24|24041103|CANTINA NOVA GERACAO|-28,99|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+11/04/24|24041104|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+12/04/24|24041200|KANZEN PET CENTER|-60,00|Pet Center|B1. Alimentacao-Drogaria-Vet:Pet Center|false
+12/04/24|24041201|CATHEDRAL BURGER|-66,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+12/04/24|24041202|MASSAS RICCI|-142,00|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+12/04/24|24041203|1178DROGASIL      03/03|-109,71|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+12/04/24|24041204|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+12/04/24|24041205|CANTINA NOVA GERACAO|-8,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+12/04/24|24041206|DROGARIA SAO PAULO04/06|-196,94|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+12/04/24|24041207|PAG*WitchBeer|-72,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+13/04/24|24041300|LEROY MERLIN JAGUA05/06|-162,29|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|false
+13/04/24|24041301|IFD*OUTBACK STEAKHOUSE|-199,59|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+13/04/24|24041302|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+13/04/24|24041303|CANTINA NOVA GERACAO|-8,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+13/04/24|24041304|VILLA LOBOS       05/06|-258,35|||false
+13/04/24|24041305|fasteasy.io_ADN|-285,73|||false
+14/04/24|24041400|LA PASTA GIALLA|-364,10|||false
+14/04/24|24041401|PADARIA FILO|-15,39|Padaria|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+14/04/24|24041402|CONECTCAR   *Conectcar|-50,00|Estapar|E1. Extraordinarias (Ongoing):Taxi-Estacionamento|false
+14/04/24|24041403|CASA DAS CUECAS - 05/06|-172,75|Loja Roupas|C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|false
+14/04/24|24041404|NCOPAY *E241 - SHO05/06|-159,75|||false
+14/04/24|24041405|BAYARD ESPORTES   05/08|-106,16|Loja Roupas|C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|false
+14/04/24|24041406|DROGARIA SAO PAULO SA|-113,87|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+15/04/24|24041500|URBAN PARK|-36,00|Estapar|E1. Extraordinarias (Ongoing):Taxi-Estacionamento|false
+15/04/24|24041501|IFD*RESTAURANTE IA POK|-115,88|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+15/04/24|24041502|COELHO PEREIRA|-1.000,00|||false
+15/04/24|24041503|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+15/04/24|24041504|GRAN  COFFEE|-6,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+15/04/24|24041505|CANTINA ESCOLAR NOVA|-8,00|||false
+15/04/24|24041506|Swarovski Cristais05/06|-116,50|||false
+16/04/24|24041600|ESTACAO PACAEMBU  08/12|-3.204,00|||false
+16/04/24|24041601|RAIA106|-88,08|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+16/04/24|24041602|IFD*BEIRUTERIA SAO FRA|-61,80|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+16/04/24|24041603|CANTINA GOUVEIA PEREIR|-15,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+16/04/24|24041604|VILLA LOBOS       02/10|-127,98|||false
+16/04/24|24041605|DROGARIA SAO PAULO02/06|-218,77|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+16/04/24|24041606|SAMS*SamsClubOsasc01/03|-150,93|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+16/04/24|24041607|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+16/04/24|24041608|CANTINA NOVA GERACAO|-25,99|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+16/04/24|24041609|IFD*ARCOS DOURADOS COM|-71,69|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+17/04/24|24041700|PAG*ImperatrizCarnes|-121,94|||false
+17/04/24|24041701|PEIXARIA SAO FRANCISCO|-32,40|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+17/04/24|24041702|CANTINA GOUVEIA PEREIR|-8,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+17/04/24|24041703|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+17/04/24|24041704|GRAN  COFFEE|-6,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+17/04/24|24041705|HUBEES|-6,99|Estapar|E1. Extraordinarias (Ongoing):Taxi-Estacionamento|false
+17/04/24|24041706|CARREFOUR COM|-372,54|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+18/04/24|24041800|DROGASIL1246      01/03|-55,31|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+18/04/24|24041801|GRAN  COFFEE|-6,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+18/04/24|24041802|SAMS|-463,84|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+18/04/24|24041803|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+18/04/24|24041804|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+18/04/24|24041805|LATAM SITE        04/04|-935,36|TAM Linhas Aereas|D. Viagens:Tkt-Hotel-Auto|false
+18/04/24|24041806|CANTINA NOVA GERACAO|-27,99|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+18/04/24|24041807|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+18/04/24|24041808|CANTINA ESCOLAR NOVA|-5,00|||false
+19/04/24|24041900|CANTINA GOUVEIA PEREIR|-8,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+19/04/24|24041901|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+19/04/24|24041902|DROGARIA SAO PAULO05/06|-78,16|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+19/04/24|24041903|AUTO POSTO TECFAC LTD|-236,19|Combustivel|F. Automoveis:Combustivel-Lavagem-Oleo|false
+19/04/24|24041904|COELHO PEREIRA|-1.000,00|||false
+20/04/24|24042000|IFD*PCRN SHOPPING CONT|-97,99|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+20/04/24|24042001|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+20/04/24|24042002|CANTINA NOVA GERACAO|-17,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+20/04/24|24042003|HAVAIANA|-89,99|Loja Roupas|C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|false
+20/04/24|24042004|PAG*Dengo|-26,18|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+20/04/24|24042005|PAG*AlessandroOliveir|-180,00|Estetica|C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|false
+21/04/24|24042100|PANIFICADORA PARQUE CO|-23,78|Padaria|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+21/04/24|24042101|PANIFICADORA PARQUE CO|-16,69|Padaria|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+21/04/24|24042102|Bacio di Latte-LJ3088|-21,95|||false
+21/04/24|24042103|PAG*CircuitPark|-15,00|||false
+21/04/24|24042104|FUJIYAMA SUSHI B|-335,39|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+21/04/24|24042105|LEROY MERLIN   JAGUARE|-33,99|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|false
+21/04/24|24042106|PAG*SodieDoces|-19,81|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+22/04/24|24042200|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+22/04/24|24042201|GRAN  COFFEE|-6,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+22/04/24|24042202|GRAN  COFFEE|-5,70|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+23/04/24|24042300|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+23/04/24|24042301|CANTINA NOVA GERACAO|-18,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+23/04/24|24042302|GRAN  COFFEE|-6,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+23/04/24|24042303|CANTINA NOVA GERACAO|-25,99|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+23/04/24|24042304|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+23/04/24|24042305|IFD*OUTBACK STEAKHOUSE|-58,80|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+23/04/24|24042306|FC ESTETICA EIRELI02/06|-69,83|Estetica|C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|false
+23/04/24|24042307|PL MODAS VILA LOBO02/02|-116,58|||false
+24/04/24|24042400|PAG*Jaguare       03/04|-83,00|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+24/04/24|24042401|PANIFICADORA PARQUE CO|-19,47|Padaria|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+24/04/24|24042402|IFD*FRANGO FRITO CORIF|-75,44|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+24/04/24|24042403|SENDAS DISTRIBUIDORA S|-148,23|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+24/04/24|24042404|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+24/04/24|24042405|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+25/04/24|24042500|DROGARIA SAO PAULO S A|-48,37|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+25/04/24|24042501|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+25/04/24|24042502|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+25/04/24|24042503|CANTINA NOVA GERACAO|-8,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+25/04/24|24042504|CANTINA NOVA GERACAO|-28,99|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+25/04/24|24042505|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+26/04/24|24042600|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+26/04/24|24042601|IFD*MADERO INDUSTRIA E|-131,79|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+26/04/24|24042602|MLP         *NETSH05/06|-90,31|||false
+26/04/24|24042603|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+26/04/24|24042604|PAG*XBillLanches|-112,00|||false
+27/04/24|24042700|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+27/04/24|24042701|CANTINA NOVA GERACAO|-18,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+28/04/24|24042800|IFD*OUTBACK STEAKHOUSE|-279,49|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+28/04/24|24042801|FLEURY VILLA LOBOS02/05|-113,26|Fleury|E2. Extraordinarias (One Time):Medicos-Clinicas-Exames|false
+29/04/24|24042900|LEROY MERLIN JAGUA05/06|-212,71|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|false
+30/04/24|24043000|ELETRICA COPELI   02/06|-101,76|Copeli Matl Eletrico|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|false
+30/04/24|24043001|PAG*Jaguare       02/04|-63,75|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+30/04/24|24043002|IFD*BEIRUTERIA SAO FRA|-62,83|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+30/04/24|24043003|IFD*RESTAURANTE IA POK|-140,88|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+30/04/24|24043004|PG *RQX (CORPO SUB04/12|-8,08|Outros|E1. Extraordinarias (Ongoing):Assinaturas-Licencas|false
+30/04/24|24043005|PG *RQX (CORPO SUB04/12|-24,75|Outros|E1. Extraordinarias (Ongoing):Assinaturas-Licencas|false
+30/04/24|24043006|CANTINA NOVA GERACAO|-25,99|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+01/05/24|24050100|PAG*Jaguare       04/04|-79,50|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|false
+01/05/24|24050101|DROGARIA SAO PAULO06/06|-117,82|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+02/05/24|24050200|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+02/05/24|24050201|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+02/05/24|24050202|CANTINA NOVA GERACAO|-8,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+02/05/24|24050203|GRAN  COFFEE|-6,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+02/05/24|24050204|CANTINA NOVA GERACAO|-27,99|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+02/05/24|24050205|POLIEDRO EDUCACAO|-161,00|||false
+02/05/24|24050206|ARTHRON CLINICA DE REU|-1.400,00|||false
+03/05/24|24050300|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+03/05/24|24050301|CANTINA NOVA GERACAO|-5,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+03/05/24|24050302|DROGARIA SAO PAULO 145|-64,74|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|false
+03/05/24|24050303|HUBEES|-6,99|Estapar|E1. Extraordinarias (Ongoing):Taxi-Estacionamento|false
+04/05/24|24050400|CANTINA NOVA GERACAO|-10,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+04/05/24|24050401|CANTINA NOVA GERACAO|-8,00|Restaurantes|C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|false
+04/05/24|24050402|SUMMIT ESTETICA LT07/12|-139,70|Estetica|C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|false
+06/05/24|240506xx|LEROY MERLIN   JAG02/02|-109,54|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|true
+11/05/24|240511xx|SALLUSC*SALLUSCARE03/06|-266,50|||true
+12/05/24|240512xx|DROGARIA SAO PAULO05/06|-196,94|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|true
+13/05/24|240513xx|LEROY MERLIN JAGUA06/06|-162,29|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|true
+13/05/24|240513xx|VILLA LOBOS       06/06|-258,35|||true
+14/05/24|240514xx|CASA DAS CUECAS - 06/06|-172,75|Loja Roupas|C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|true
+14/05/24|240514xx|NCOPAY *E241 - SHO06/06|-159,75|||true
+14/05/24|240514xx|BAYARD ESPORTES   06/08|-106,16|Loja Roupas|C1. Lazer-Estetica-Vestuario-Celular:Vestuario Marina-Felipe|true
+15/05/24|240515xx|Swarovski Cristais06/06|-116,50|||true
+16/05/24|240516xx|ESTACAO PACAEMBU  09/12|-3.204,00|||true
+16/05/24|240516xx|VILLA LOBOS       03/10|-127,98|||true
+16/05/24|240516xx|DROGARIA SAO PAULO03/06|-218,77|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|true
+16/05/24|240516xx|SAMS*SamsClubOsasc02/03|-150,93|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|true
+18/05/24|240518xx|DROGASIL1246      02/03|-55,31|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|true
+19/05/24|240519xx|DROGARIA SAO PAULO06/06|-78,16|Drogaria|B1. Alimentacao-Drogaria-Vet:Drogaria|true
+23/05/24|240523xx|FC ESTETICA EIRELI03/06|-69,83|Estetica|C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|true
+24/05/24|240524xx|PAG*Jaguare       04/04|-83,00|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|true
+26/05/24|240526xx|MLP         *NETSH06/06|-90,31|||true
+28/05/24|240528xx|FLEURY VILLA LOBOS03/05|-113,26|Fleury|E2. Extraordinarias (One Time):Medicos-Clinicas-Exames|true
+29/05/24|240529xx|LEROY MERLIN JAGUA06/06|-212,71|Leroy Merlin|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|true
+30/05/24|240530xx|ELETRICA COPELI   03/06|-101,76|Copeli Matl Eletrico|E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|true
+31/05/24|240531xx|PG *RQX (CORPO SUB05/12|-8,08|Outros|E1. Extraordinarias (Ongoing):Assinaturas-Licencas|true
+31/05/24|240531xx|PG *RQX (CORPO SUB05/12|-24,75|Outros|E1. Extraordinarias (Ongoing):Assinaturas-Licencas|true
+31/05/24|240531xx|PAG*Jaguare       03/04|-63,75|Supermercado|B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|true
+04/06/24|240604xx|SUMMIT ESTETICA LT08/12|-139,70|Estetica|C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|true
