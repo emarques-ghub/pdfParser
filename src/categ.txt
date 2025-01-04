@@ -67,20 +67,22 @@ B1. Alimentacao-Drogaria-Vet:Drogaria|Drogaria|2196 JARDIM ADAL
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Frutaria Colinas|AIRTON VENTU
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Frutaria Colinas|FRUTARIA COLLINAS
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Frutaria Colinas|HORTIFRUTI
-B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CARVOARIA MARTINSACOUGUE
-B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CARVOARIA MARTINSPATA NEGRA 
-B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CARVOARIA MARTINSPAG*ImperatrizCarnes
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|CASA  P  D  FILO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|PADARIA
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|PANIFICAD
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|PAO DO PARQUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|CARINHO
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|MERCANTIL RED
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|ACOUGUE
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PATA NEGRA 
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|ImperatrizCarnes
+B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAG*ImperatrizCarnes
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|CARVOARIA MARTINS
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|DISTRIBUIDORA DE HORTI
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|FRUTAS
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|HORT CENTER
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|MERCEARIA
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|WINERY
-B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|CASA  P  D  FILO
-B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|PADARIA
-B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|PANIFICAD
-B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|PAO DO PARQUE
-B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Padaria|CARINHO
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|PAO DE ACUCA 
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|FABIO MORAN
 B1. Alimentacao-Drogaria-Vet:Mercado-Padaria-Vinhos|Supermercado|ARMAZEM
@@ -197,6 +199,7 @@ C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|
 C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|EVENTIMBRA
 C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|INGRESSO
 C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|KINOPLEX
+C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|INGRESSO.COM
 C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|MEGABILHETERI
 C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|UCI CINEMAS
 C1. Lazer-Estetica-Vestuario-Celular:Cinema-Locadora-Esportes-Diversao|Ingresso|TKTS FOR FUN
@@ -228,6 +231,13 @@ C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|SOMBRANCELHAS
 C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|STUDIO DE BELEZA
 C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|THELMA & LOUIZE
 C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|VITA CORPUS
+C1. Lazer-Estetica-Vestuario-Celular:Estetica-Massagem|Estetica|SIMONE STANGL
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BIJU MANI
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|Gagoshake
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PIANTARE GELATERIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|KIDELICIA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|LATTE
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BACIO DI
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|SAGRADA BOUL
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CONFEITARIA DAMA
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PECORINO
@@ -243,7 +253,6 @@ C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|APPLEBEE
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ASTOR
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BABBO
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BACCIO DI
-C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BACIO DI
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BAKED POTATO
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BELLA PAULISTA
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|BOTECO
@@ -287,6 +296,7 @@ C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|ETIENNE
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|FEIRA DO CONDOMINIO OS
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|FRANGO
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|FUJIYAMA
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|Fujiyama
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GAIA GRILL
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GAIA NATURAL
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GALERIA DOS PAES
@@ -298,6 +308,7 @@ C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GRAAL
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|GRAO EXPRESSO
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CANTINA GOUVEIA PEREIR
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CANTINA NOVA GERACAO
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|CANTINA ESCOLAR NOVA
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|HABIBS
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|HANABI
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|HAMBU
@@ -446,6 +457,7 @@ C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|TORINO
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*WorkCoffee
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|PAG*Dengo
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|O REI DO KEBAB
+C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Restaurantes|LOJA DE SUCO
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Tuhu|TUHU
 C1. Lazer-Estetica-Vestuario-Celular:Restaurantes|Tuhu|TUHU RESTAURANTE
 C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Arezzo|AREZZO 
@@ -455,6 +467,7 @@ C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Corello|CORELLO
 C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Decathlon|DECATHLON
 C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Intimissimi|ALNILAM
 C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Intimissimi|INTIMISS
+C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|OTICAS
 C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|OSKLEN
 C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|DEL CARMEN BY SARR0
 C1. Lazer-Estetica-Vestuario-Celular:Vestuario Eduardo-Carla|Loja Roupas|PL VILA LOBOS CIEL
@@ -568,6 +581,9 @@ E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|SERASA
 E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Amazon Prime|AmazonPrimeBR
 E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Amazon Prime|Amazon.com.br Digital
 E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|PG *RQX (CORPO
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|APPLE.COM/BILL
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|*helpmaxcom
+E1. Extraordinarias (Ongoing):Assinaturas-Licencas|Outros|*MELIMAIS
 E1. Extraordinarias (Ongoing):Presentes|Arezzo|AREZZO
 E1. Extraordinarias (Ongoing):Presentes|Fast Shop|FAST SHOP
 E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|ALO BEBE 
@@ -587,8 +603,10 @@ E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|SPICY
 E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|SWAROVSKI
 E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|ZAPALLA           
 E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|SEPHORA
+E1. Extraordinarias (Ongoing):Presentes|Loja Presentes|TRACK AND FIELD
 E1. Extraordinarias (Ongoing):Presentes|Ri Happy|HI HAPPY
 E1. Extraordinarias (Ongoing):Presentes|Vivara|VIVARA
+F. Automoveis:Manutencao-Revisao Auto|Outros|ercadocar
 E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|C&C|C C - OSASCO
 E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|C&C|C C MORUM
 E1. Extraordinarias (Ongoing):Residencia Moveis-Eletro-Servicos|C&C|C&C
@@ -617,6 +635,7 @@ E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|AUTO VAGAS
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|CONECTCAR
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|ESTAC SHOP ELDORADO
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|ESTACION
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|ESTAC
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|ESTAPAR
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|PARK
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|SAO PAULO AIRPORT
@@ -624,12 +643,16 @@ E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|SHOPPING UNIAO
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|SHOPPING VILLA LOBOS
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|SPBGRU
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|HUBEES
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|PAG*CircuitPark
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Estapar|CircuitPark
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Taxi|COOPSETA
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Taxi|GUARUCOOP
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Taxi|TAXI
 E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Uber|UBER
+E1. Extraordinarias (Ongoing):Taxi-Estacionamento|Uber|JascPark
 E2. Extraordinarias (One Time):Manutencao Residencia|Lojas Construcao-Eletro|SANTIL
 E2. Extraordinarias (One Time):Medicos-Clinicas-Exames|4BIO|4BIO
+E2. Extraordinarias (One Time):Medicos-Clinicas-Exames|4BIO|4 BIO
 E2. Extraordinarias (One Time):Medicos-Clinicas-Exames|Fleury|FLEURY 
 E2. Extraordinarias (One Time):Medicos-Clinicas-Exames|Hospital Albert Einstein|EINSTEIN
 E2. Extraordinarias (One Time):Veterinario-Fisioterapia|Pet Center|PETZ
